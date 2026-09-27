@@ -1,57 +1,80 @@
 name: Notiziepure — aggiorna, archivia e pubblica
-
 on:
-  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: Operazione
+        required: true
+        default: build
+        type: choice
+        options: [build, update, archive]
   schedule:
-    - cron: '17 8,20 * * *'
-
+    - cron: '0,30 * * * *'
+      timezone: Europe/Rome
+concurrency:
+  group: notiziepure-production
+  cancel-in-progress: false
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 jobs:
   build:
+    if: github.event_name != 'schedule' || vars.NOTIZIEPURE_ENABLED == 'true'
     runs-on: ubuntu-latest
-
+    timeout-minutes: 28
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
-      - name: Installa dipendenze
-        run: pip install -r requirements.txt
-
-      - name: Genera il sito
-        run: python build.py
-
-      - name: Configura Pages
-        uses: actions/configure-pages@v5
-
-      - name: Carica artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Configura identità per gli aggiornamenti
+        run: |
+          git config user.name 'notiziepure-bot'
+          git config user.email 'notiziepure-bot@users.noreply.github.com'
+      - name: Verifica il motore editoriale
+        run: python -m unittest discover -s tests -v
+      - name: Aggiorna o prepara il sito
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          EVENT_NAME: ${{ github.event_name }}
+          OPERATION: ${{ inputs.operation }}
+          NOTIZIEPURE_PERSIST_BUDGET: '1'
+        run: |
+          if [ "$EVENT_NAME" = 'schedule' ]; then
+            python scripts/run.py --mode update
+          elif [ "$EVENT_NAME" = 'workflow_dispatch' ]; then
+            python scripts/run.py --mode "${OPERATION:-build}"
+          else
+            python scripts/run.py --mode build
+          fi
+      - name: Controlla i collegamenti del sito
+        run: python scripts/check_site.py
+      - name: Conserva dati e archivio
+        run: |
+          git add data site
+          if ! git diff --cached --quiet; then
+            git commit -m 'Aggiorna notizie e archivio'
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: site
-
   deploy:
+    if: vars.NOTIZIEPURE_PUBLISH == 'true'
     needs: build
     runs-on: ubuntu-latest
-
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
       - name: Pubblica su GitHub Pages
         id: deployment
