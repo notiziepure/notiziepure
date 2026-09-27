@@ -1,0 +1,4 @@
+
+const buttons=[...document.querySelectorAll('[data-filter]')],stories=[...document.querySelectorAll('.story')],sections=[...document.querySelectorAll('[data-section]')];
+function filter(category){buttons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.filter===category)));stories.forEach(s=>s.hidden=category!=='Tutte'&&s.dataset.category!==category);sections.forEach(s=>s.hidden=category!=='Tutte'&&s.dataset.section!==category);document.querySelector('.opening').hidden=![...document.querySelectorAll('.opening .story')].some(s=>!s.hidden);document.querySelector('#opening-label').hidden=document.querySelector('.opening').hidden;document.querySelector('#count').textContent=stories.filter(s=>!s.hidden).length+' notizie · '+(category==='Tutte'?sections.length+' sezioni':category);}
+buttons.forEach(b=>b.addEventListener('click',()=>filter(b.dataset.filter)));

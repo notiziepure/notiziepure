@@ -1,0 +1,1894 @@
+{
+  "date": "2026-09-26",
+  "demo": true,
+  "closed_at": null,
+  "featured": [
+    "demo-1",
+    "demo-2",
+    "demo-3",
+    "demo-4"
+  ],
+  "items": [
+    {
+      "category": "Mondo",
+      "title": "Iran, Pezeshkian apre al ritorno degli ispettori nucleari dell’ONU",
+      "date": "2026-09-26",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/iran-president-masoud-pezeshkian-proposal-trump-strait-of-hormuz-war/",
+      "sourceType": "articolo",
+      "homepageOrder": 1,
+      "featured": true,
+      "summary": "Pezeshkian apre al ritorno degli ispettori nucleari. L’annuncio resta legato al negoziato: mancano ancora tempi e condizioni operative per riprendere le verifiche.",
+      "page": "articoli/01-iran-pezeshkian-apre-al-ritorno-degli-ispettori-nucleari-dellonu.html",
+      "id": "demo-1",
+      "body": [
+        "L’Iran potrebbe consentire nuovamente l’ingresso degli ispettori nucleari delle Nazioni Unite. L’apertura di Masoud Pezeshkian emerge dall’intervista a CBS News ed è ripresa da ANSA: il presidente colloca la disponibilità di Teheran nel confronto diplomatico, senza annunciare una missione già concordata.",
+        "La distinzione è decisiva. Un assenso politico non stabilisce ancora quando gli ispettori entreranno nel Paese, quali siti potranno visitare o con quali modalità. Nel materiale consultato non compare un calendario operativo: presentare le parole del presidente come la ripresa effettiva delle ispezioni anticiperebbe un passaggio non documentato.",
+        "Il dialogo rimane difficile. In una distinta intervista ad Al Jazeera, Pezeshkian esprime sfiducia verso Washington e indica Qatar e Pakistan come mediatori. Le due dichiarazioni descrivono quindi una disponibilità negoziale accompagnata da forti riserve politiche, non un accordo concluso."
+      ],
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/iran-president-masoud-pezeshkian-proposal-trump-strait-of-hormuz-war/",
+          "role": "Intervista originale: apertura alle ispezioni"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/amp/sito/notizie/mondo/mediooriente/2026/09/26/pezeshkian-si-allingresso-in-iran-degli-ispettori-nucleari-dellonu_e448d216-eb76-4a0f-9e99-b8a26df82baf.html",
+          "role": "Resoconto italiano delle dichiarazioni"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/amp/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington",
+          "role": "Seconda intervista: posizione sui negoziati"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-1",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 100.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Cronaca",
+      "title": "Bangkok allagata: piogge intense e canali ai livelli critici",
+      "date": "2026-09-26",
+      "source": "The Nation",
+      "url": "https://www.nationthailand.com/news/general/40071516",
+      "sourceType": "articolo",
+      "homepageOrder": 2,
+      "featured": true,
+      "summary": "Bangkok dichiara l’emergenza per gli allagamenti. Le piogge mettono sotto pressione canali e drenaggio; le autorità estendono l’area colpita a tutti i cinquanta distretti.",
+      "page": "articoli/02-bangkok-allagata-piogge-intense-e-canali-ai-livelli-critici.html",
+      "id": "demo-2",
+      "body": [
+        "Bangkok affronta allagamenti diffusi dopo le piogge persistenti degli ultimi giorni. The Nation segnala canali a livelli critici e precipitazioni superiori a 200 millimetri in 24 ore. Strade, abitazioni e attività commerciali subiscono le conseguenze dell’acqua che la rete di drenaggio non riesce a smaltire.",
+        "Khaosod English aggiunge il passaggio amministrativo: il governatore Chadchart Sittipunt ha esteso la dichiarazione di area colpita da calamità da tre distretti a tutti i cinquanta della capitale. La misura permette di accelerare il coordinamento degli interventi e degli aiuti; non significa che ogni quartiere presenti la stessa profondità dell’acqua.",
+        "Il quadro resta disomogeneo. Le segnalazioni riguardano canali, strade e zone basse, con limitazioni alla circolazione e avvisi agli abitanti. Le rilevazioni di pioggia vanno lette insieme al luogo e all’intervallo temporale: dati riferiti a periodi diversi non sono bilanci contraddittori. Questa pagina conserva la situazione dell’edizione del 26 settembre."
+      ],
+      "sources": [
+        {
+          "name": "The Nation",
+          "url": "https://www.nationthailand.com/news/general/40071516",
+          "role": "Piogge e condizioni dei canali"
+        },
+        {
+          "name": "Khaosod English",
+          "url": "https://www.khaosodenglish.com/featured/2026/09/26/bangkok-declares-all-50-districts-disaster-affected-as-flood-warning-issued/",
+          "role": "Dichiarazione di calamità e risposta cittadina"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-2",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 99.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Nera",
+      "title": "Pakistan, undici morti nell’attentato contro un posto di polizia",
+      "date": "2026-09-26",
+      "source": "Reuters · Internazionale",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/26/blast-in-pakistan-s-dera-ismail-khan-kills-11-injures-30",
+      "sourceType": "articolo",
+      "homepageOrder": 3,
+      "featured": true,
+      "summary": "Un attentato contro un posto di controllo a Dera Ismail Khan provoca almeno undici morti. I primi resoconti riportano bilanci differenti dei feriti.",
+      "page": "articoli/03-pakistan-undici-morti-nellattentato-contro-un-posto-di-polizia.html",
+      "id": "demo-3",
+      "body": [
+        "Un’esplosione ha colpito un posto di controllo nell’area di Dera Ismail Khan, nel Pakistan nord-occidentale. Reuters, nel resoconto pubblicato da Internazionale, riferisce undici morti e trenta feriti, citando il servizio di emergenza Rescue 1122. Euronews riporta lo stesso ordine di grandezza e descrive l’attacco come suicida.",
+        "Il bilancio dei feriti varia nei primi aggiornamenti: Dawn ne indica venti. È una differenza da conservare, non da risolvere sommando i numeri. Le cifre sono fotografie delle comunicazioni raccolte dalle rispettive redazioni mentre proseguono soccorsi e accertamenti.",
+        "Reuters colloca l’attacco in una zona ripetutamente colpita da violenze contro polizia e forze di sicurezza. Questo precedente non basta ad attribuire il singolo attentato a un gruppo. Per questa edizione restano quindi distinti il bilancio provvisorio, la descrizione dell’obiettivo e l’accertamento delle responsabilità."
+      ],
+      "sources": [
+        {
+          "name": "Reuters · Internazionale",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/26/blast-in-pakistan-s-dera-ismail-khan-kills-11-injures-30",
+          "role": "Bilancio attribuito a Rescue 1122"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://it.euronews.com/2026/09/26/attentato-suicida-nel-nord-ovest-del-pakistan-almeno-11-morti",
+          "role": "Resoconto dell’attacco"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://www.dawn.com/news/2032829/at-least-11-killed-several-injured-in-blast-targeting-di-khan-police-checkpost-rescue-1122",
+          "role": "Primo bilancio dei feriti"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-3",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 99.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Italia",
+      "title": "Carburanti, si riduce lo sconto sulle accise e il diesel torna a salire",
+      "date": "2026-09-26",
+      "source": "Il Fatto Quotidiano",
+      "url": "https://www.ilfattoquotidiano.it/2026/09/26/prezzi-carburanti-accise-diesel-oggi/8518840/",
+      "sourceType": "articolo",
+      "homepageOrder": 4,
+      "featured": true,
+      "summary": "Il diesel sale mentre si dimezza lo sconto sulle accise. Dal 28 settembre Eni annuncia un tetto ai prezzi sulla rete Enilive: sono due misure distinte.",
+      "page": "articoli/04-carburanti-si-riduce-lo-sconto-sulle-accise-e-il-diesel-torna-a-salire.html",
+      "id": "demo-4",
+      "body": [
+        "Il prezzo del gasolio risente della riduzione dello sconto sulle accise, che passa da 12,2 a 6,1 centesimi al litro. Il Fatto Quotidiano riporta una media di 2,357 euro, con 2,439 euro sulla rete autostradale. I valori descrivono la rilevazione del 26 settembre, non il listino di ogni singolo distributore.",
+        "Sul versante delle imprese, Eni ha annunciato un limite ai prezzi dei carburanti commercializzati da Enilive: 2,19 euro al litro per il gasolio e 1,99 per la benzina. Il comunicato aziendale indica l’avvio il 28 settembre, per trenta giorni, con possibilità di estensione.",
+        "Il taglio dello sconto fiscale e il tetto aziendale non coincidono. Il primo interviene sulla componente tributaria; il secondo è un impegno commerciale annunciato da una compagnia. Perciò il prezzo medio rilevato il 26 e il limite previsto dal 28 non possono essere confrontati come se fossero contemporanei o applicati all’intero mercato."
+      ],
+      "sources": [
+        {
+          "name": "Il Fatto Quotidiano",
+          "url": "https://www.ilfattoquotidiano.it/2026/09/26/prezzi-carburanti-accise-diesel-oggi/8518840/",
+          "role": "Prezzi e riduzione dello sconto fiscale"
+        },
+        {
+          "name": "Eni",
+          "url": "https://www.eni.com/it-IT/media/comunicati-stampa/2026/09/cs-eni-aggiudica-dal-28-settembre-tetto-prezzi-gasolio-benzina.html",
+          "role": "Comunicato aziendale sul tetto Enilive"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-4",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 98.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Mondo",
+      "title": "Putin rimette in discussione la ripresa dei negoziati dopo i raid ucraini",
+      "date": "2026-09-25",
+      "source": "Reuters · MarketScreener",
+      "url": "https://www.marketscreener.com/news/putin-says-all-ukraine-peace-proposals-on-table-but-russia-must-weigh-its-interests-ce785adfd18cff27",
+      "sourceType": "articolo",
+      "homepageOrder": 5,
+      "featured": false,
+      "summary": "Putin lascia aperta la possibilità dei negoziati, ma dice di volerla rivalutare dopo gli attacchi ucraini. Non viene indicata una nuova data per gli incontri.",
+      "page": "articoli/05-putin-rimette-in-discussione-la-ripresa-dei-negoziati-dopo-i-raid-ucraini.html",
+      "id": "demo-5",
+      "body": [
+        "Vladimir Putin afferma che le proposte per un accordo sull’Ucraina restano sul tavolo, ma sostiene che Mosca debba valutare i propri interessi prima di riprendere i colloqui. Reuters riporta le dichiarazioni rilasciate il 25 settembre ai giornalisti russi; ANSA ricostruisce lo stesso intervento attraverso la Tass.",
+        "Secondo il presidente russo, la ripresa del confronto era stata considerata dopo le elezioni della Duma. Putin collega ora le sue riserve ai raid che attribuisce a Kiev durante il voto, anche contro Mosca. Sono affermazioni della parte russa: i resoconti delle sue parole non costituiscono una verifica indipendente degli obiettivi colpiti.",
+        "La posizione non equivale a una chiusura formale di ogni canale diplomatico, ma nemmeno a un’intesa sulla ripartenza. Il punto rimasto irrisolto è operativo: nelle dichiarazioni citate non sono fissati luogo, calendario e condizioni di un nuovo incontro."
+      ],
+      "sources": [
+        {
+          "name": "Reuters · MarketScreener",
+          "url": "https://www.marketscreener.com/news/putin-says-all-ukraine-peace-proposals-on-table-but-russia-must-weigh-its-interests-ce785adfd18cff27",
+          "role": "Dichiarazioni sulla ripresa del confronto"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/putin-eravamo-pronti-a-riprendere-i-negoziati-ma-dopo-raid-ucraini-ci-rifletteremo_7f46f9e7-b3f9-47f7-aa63-d6d43cec07f8.html",
+          "role": "Resoconto via Tass: attribuzione dei raid"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-5",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 98.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Mondo",
+      "title": "Trump e stampa, lo scontro sugli accessi arriva in tribunale",
+      "date": "2026-09-26",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/72f9acf68244ca70e9078d9d3661c722",
+      "sourceType": "articolo",
+      "homepageOrder": 6,
+      "featured": false,
+      "summary": "Lo scontro di Trump con la stampa coinvolge accessi, ricorsi e copertura degli eventi. Un giudice ha temporaneamente ripristinato le credenziali delle testate escluse.",
+      "page": "articoli/06-trump-e-stampa-lo-scontro-sugli-accessi-arriva-in-tribunale.html",
+      "id": "demo-6",
+      "body": [
+        "Il conflitto fra Donald Trump e alcune testate riguarda ormai l’accesso fisico alla Casa Bianca. Associated Press riferisce che CNN, MS NOW e Politico hanno promosso un’azione legale dopo l’esclusione dei loro giornalisti, sostenendo che la scelta colpisca il contenuto della copertura e violi la libertà di stampa.",
+        "La Casa Bianca rivendica invece il carattere discrezionale dell’accesso. La contrapposizione ha effetti anche sulla documentazione degli eventi: Axios descrive una conferenza in cui la sospensione della copertura del gruppo televisivo ha lasciato il video ufficiale privo di audio utilizzabile.",
+        "Il 24 settembre un giudice ha temporaneamente ripristinato le credenziali, riferisce CBS. È uno sviluppo da distinguere dalle successive invettive presidenziali contro le notizie sgradite. La vertenza resta quindi una controversia istituzionale e giudiziaria, non soltanto uno scambio di accuse pubbliche tra il presidente e i cronisti."
+      ],
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/72f9acf68244ca70e9078d9d3661c722",
+          "role": "Ricorso e posizioni delle parti"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/09/21/trump-white-house-pool-tv-ban-audio",
+          "role": "Effetti sulla copertura televisiva"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/judge-blocks-trump-ban-cnn-ms-now-politico-restoring-white-house-access/",
+          "role": "Decisione giudiziaria temporanea del 24 settembre"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-6",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 97.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Mondo",
+      "title": "Lula vuole lavorare in Brasile i minerali strategici prima di esportarli",
+      "date": "2026-09-26",
+      "source": "Veja",
+      "url": "https://veja.abril.com.br/economia/lula-defende-ia-brasileira-para-sair-de-disputa-entre-eua-e-china/",
+      "sourceType": "articolo",
+      "homepageOrder": 7,
+      "featured": false,
+      "summary": "Lula chiede di trasformare in Brasile i minerali strategici e sviluppare una propria IA. La proposta si inserisce nel nuovo quadro nazionale per il settore minerario.",
+      "page": "articoli/07-lula-vuole-lavorare-in-brasile-i-minerali-strategici-prima-di-esportarli.html",
+      "id": "demo-7",
+      "body": [
+        "Il Brasile non dovrebbe limitarsi a estrarre ed esportare minerali strategici: Lula vuole che una parte maggiore della trasformazione industriale avvenga nel Paese. Nel discorso agli imprenditori riuniti dal Grupo Esfera, il presidente collega le risorse del sottosuolo alla capacità di costruire filiere e competenze nazionali.",
+        "Veja riporta anche il suo invito a sviluppare un’intelligenza artificiale brasiliana, per ridurre la dipendenza dalla competizione tecnologica fra Stati Uniti e Cina. La questione mineraria e quella digitale vengono presentate come parti della stessa aspirazione all’autonomia produttiva.",
+        "CNN Brasil colloca queste dichiarazioni nel quadro della legge sui minerali critici e strategici firmata il 16 settembre. Il nuovo assetto istituisce una politica nazionale e un consiglio dedicato. La direzione annunciata è favorire lavorazioni interne: tradurla in capacità industriale richiederà investimenti e attuazione delle regole, non soltanto disponibilità di materie prime."
+      ],
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/economia/lula-defende-ia-brasileira-para-sair-de-disputa-entre-eua-e-china/",
+          "role": "Discorso al Grupo Esfera"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/infra/lula-sanciona-lei-e-cria-conselho-dos-minerais-criticos-com-poder-de-veto/",
+          "role": "Contesto: nuova politica nazionale dei minerali"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-7",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 97.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Mondo",
+      "title": "Haiti, l’OIM segnala quasi un milione e mezzo di sfollati per le violenze",
+      "date": "2026-09-25",
+      "source": "Reuters · Investing.com",
+      "url": "https://www.investing.com/news/world-news/nearly-15-million-displaced-in-haiti-as-violence-spreads-un-says-4917725",
+      "sourceType": "articolo",
+      "homepageOrder": 8,
+      "featured": false,
+      "summary": "Quasi un milione e mezzo di sfollati ad Haiti. La violenza si estende fuori dalla capitale e rende più precarie le condizioni di chi ha già lasciato casa.",
+      "page": "articoli/08-haiti-loim-segnala-quasi-un-milione-e-mezzo-di-sfollati-per-le-violenze.html",
+      "id": "demo-8",
+      "body": [
+        "La crisi degli sfollati ad Haiti si allarga oltre Port-au-Prince. Reuters riporta i dati dell’Organizzazione internazionale per le migrazioni: quasi un milione e mezzo di persone hanno abbandonato le abitazioni e circa l’80% si trova fuori dalla capitale. L’espansione delle bande nelle aree rurali riduce i luoghi considerati sicuri.",
+        "L’Artibonite è fra le zone dove l’aumento degli spostamenti è stato più marcato. Europa Press aggiunge il caso di Kenscoff: gli attacchi hanno costretto oltre quattromila persone a fuggire, cercando accoglienza presso famiglie e strutture nelle aree vicine alla capitale.",
+        "I due resoconti si basano sullo stesso organismo internazionale: non sono due conteggi autonomi da sommare. Letti insieme descrivono sia l’estensione geografica sia le condizioni dell’accoglienza. L’OIM avverte inoltre che sistemazioni informali e precarie rendono le famiglie particolarmente esposte durante la stagione degli uragani."
+      ],
+      "sources": [
+        {
+          "name": "Reuters · Investing.com",
+          "url": "https://www.investing.com/news/world-news/nearly-15-million-displaced-in-haiti-as-violence-spreads-un-says-4917725",
+          "role": "Dati OIM e rischio umanitario"
+        },
+        {
+          "name": "Europa Press",
+          "url": "https://www.europapress.es/internacional/noticia-creciente-violencia-haiti-deja-cerca-15-millones-desplazados-oim-20260925184755.html",
+          "role": "Dettaglio territoriale di Kenscoff, da dati OIM"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-8",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 96.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Mondo",
+      "title": "La Colombia interrompe i rapporti con l’Iran, Teheran protesta",
+      "date": "2026-09-25",
+      "source": "Ministero degli Esteri colombiano",
+      "url": "https://cancilleria.gov.co/sala-de-prensa/noticias/colombia-anuncia-la-ruptura-de-relaciones-diplomaticas-con-iran",
+      "sourceType": "articolo",
+      "homepageOrder": 9,
+      "featured": false,
+      "summary": "Bogotà interrompe i rapporti diplomatici con Teheran, ma mantiene quelli consolari. L’Iran respinge la decisione e accusa influenze statunitensi e israeliane.",
+      "page": "articoli/09-la-colombia-interrompe-i-rapporti-con-liran-teheran-protesta.html",
+      "id": "demo-9",
+      "body": [
+        "La Colombia ha annunciato la rottura delle relazioni diplomatiche con l’Iran, con effetto dal 19 settembre. La nota del ministero degli Esteri colombiano, pubblicata il 24, richiama sicurezza nazionale e regionale, diritti umani e programma nucleare come ragioni della decisione.",
+        "Bogotà cita anche presunti legami di Teheran con gruppi armati e contesta il suo comportamento nel conflitto mediorientale. Si tratta delle motivazioni formulate dal governo colombiano. Nella risposta riportata da ANSA, l’Iran condanna la misura e accusa la Colombia di subire l’influenza di Stati Uniti e Israele.",
+        "La nota colombiana precisa che non vengono interrotti i rapporti consolari. La distinzione limita la portata dell’annuncio: la rottura del canale diplomatico non significa automaticamente la cessazione di ogni funzione di assistenza ai cittadini. Le accuse reciproche restano attribuite ai rispettivi governi, senza essere presentate come accertamenti indipendenti."
+      ],
+      "sources": [
+        {
+          "name": "Ministero degli Esteri colombiano",
+          "url": "https://cancilleria.gov.co/sala-de-prensa/noticias/colombia-anuncia-la-ruptura-de-relaciones-diplomaticas-con-iran",
+          "role": "Comunicato ufficiale: decisione e motivazioni"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/amp/sito/notizie/mondo/americalatina/2026/09/25/iran-condanna-la-rottura-dei-rapporti-diplomatici-di-bogota_7b71ee72-8e26-47b9-9b9c-a2d1e1f82277.html",
+          "role": "Replica del governo iraniano"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-9",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 96.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Italia",
+      "title": "Trenitalia cambia l’abbonamento AV: canone ridotto e prenotazione a pagamento",
+      "date": "2026-09-26",
+      "source": "FS News",
+      "url": "https://www.fsnews.it/it/focus-on/servizi/2026/9/25/abbonamenti-av-trenitalia-nuovo-sistema-prenotazione-posti.html",
+      "sourceType": "articolo",
+      "homepageOrder": 10,
+      "featured": false,
+      "summary": "Da novembre l’abbonamento AV scende di 80 euro al mese, ma ogni prenotazione costa due euro. Il saldo per i pendolari dipenderà dai viaggi effettuati.",
+      "page": "articoli/11-trenitalia-cambia-labbonamento-av-canone-ridotto-e-prenotazione-a-pagamento.html",
+      "id": "demo-11",
+      "body": [
+        "Trenitalia cambia la struttura dell’abbonamento all’alta velocità. FS News annuncia da novembre una quota fissa mensile ridotta di 80 euro e una prenotazione da due euro per ciascun viaggio. Il costo complessivo dipenderà quindi dall’utilizzo, anziché soltanto dal canone iniziale.",
+        "Sky TG24 raccoglie la lettura di Assoutenti, informata del piano durante il confronto con l’azienda. L’associazione ricorda che il modello precedente prevedeva prenotazioni gratuite e annuncia un monitoraggio sugli effetti per i passeggeri, riservandosi di chiedere modifiche se emergeranno criticità.",
+        "Il confronto aritmetico è semplice: quaranta prenotazioni da due euro assorbono interamente gli 80 euro di riduzione. Con venti, il saldo teorico è un risparmio di quaranta euro; con cinquanta, una maggiore spesa di venti. Sono esempi calcolati sulle due voci annunciate, non preventivi individuali: restano da considerare le condizioni applicabili al proprio abbonamento."
+      ],
+      "sources": [
+        {
+          "name": "FS News",
+          "url": "https://www.fsnews.it/it/focus-on/servizi/2026/9/25/abbonamenti-av-trenitalia-nuovo-sistema-prenotazione-posti.html",
+          "role": "Annuncio del gruppo ferroviario"
+        },
+        {
+          "name": "Sky TG24",
+          "url": "https://tg24.sky.it/cronaca/2026/09/26/trenitalia-cambia-abbonamento-alta-velocita",
+          "role": "Posizione di Assoutenti e confronto con il sistema precedente"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-11",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 95.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Italia",
+      "title": "Prodotti sostenibili, da domenica nuove regole europee contro il greenwashing",
+      "date": "2026-09-26",
+      "source": "Commissione europea · EU Retail Platform",
+      "url": "https://transition-pathways.europa.eu/retail/legislation/new-eu-rules-against-greenwashing-enter-application-27-september-2026",
+      "sourceType": "articolo",
+      "homepageOrder": 11,
+      "featured": false,
+      "summary": "Dal 27 settembre si applicano nuove regole contro il greenwashing. Le promesse ambientali devono essere dimostrabili: cambiano claim, marchi e comunicazione dei prodotti.",
+      "page": "articoli/12-prodotti-sostenibili-da-domenica-nuove-regole-europee-contro-il-greenwashing.html",
+      "id": "demo-12",
+      "body": [
+        "Le nuove disposizioni europee contro il greenwashing si applicano dal 27 settembre. La piattaforma europea per il commercio richiama la scadenza della direttiva 2024/825; l’analisi di ASviS spiega le conseguenze per chi presenta un prodotto come ecologico o sostenibile.",
+        "Le indicazioni generiche non possono sostituire prove di un beneficio ambientale. Gli impegni futuri richiedono obiettivi misurabili e verificabili, mentre i marchi volontari devono poggiare su sistemi di certificazione o essere istituiti da autorità pubbliche. L’obiettivo è rendere confrontabili le informazioni, evitando che un simbolo suggerisca garanzie inesistenti.",
+        "ASviS distingue inoltre le caratteristiche del prodotto dalle compensazioni effettuate altrove: finanziare un progetto ambientale non rende automaticamente quel prodotto privo di emissioni. La riforma incide quindi sul modo in cui i vantaggi vengono raccontati e provati, dalle confezioni ai messaggi commerciali, non sulla sola scelta delle parole di uno slogan."
+      ],
+      "sources": [
+        {
+          "name": "Commissione europea · EU Retail Platform",
+          "url": "https://transition-pathways.europa.eu/retail/legislation/new-eu-rules-against-greenwashing-enter-application-27-september-2026",
+          "role": "Scadenza di applicazione"
+        },
+        {
+          "name": "ASviS · ANSA2030",
+          "url": "https://www.ansa.it/ansa2030/notizie/asvis/2026/09/25/greenwashing-dal-27-settembre-cambia-il-modo-di-comunicare-la-sostenibilita_ec8921e2-fa7d-4852-9d3d-1f0686e5f77d.html",
+          "role": "Analisi delle regole sulla comunicazione ambientale"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-12",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 95.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Italia",
+      "title": "Ponte sullo Stretto, il progetto pronto per il Cipess: il direttore tecnico passa ad Anas",
+      "date": "2026-09-26",
+      "source": "Calabria 7",
+      "url": "https://calabria7.news/attualita/ponte-sullo-stretto-cambio-al-vertice-mele-lascia-la-direzione-tecnica-e-passa-ad-anas/",
+      "sourceType": "articolo",
+      "homepageOrder": 12,
+      "featured": false,
+      "summary": "Valerio Mele passa dalla direzione tecnica di Stretto di Messina ad Anas. La società indica il progetto del ponte come pronto per il nuovo passaggio al Cipess.",
+      "page": "articoli/13-ponte-sullo-stretto-il-progetto-pronto-per-il-cipess-il-direttore-tecnico-passa-ad-anas.html",
+      "id": "demo-13",
+      "body": [
+        "Il direttore tecnico Valerio Mele lascia Stretto di Messina per assumere un incarico in Anas. Calabria 7 colloca il trasferimento dopo circa tre anni nella gestione tecnica del progetto del ponte; StrettoWeb lo presenta nel quadro del passaggio verso l’esame del Cipess.",
+        "La società sostiene che il progetto sia pronto per questa fase. Il cambio di incarico e l’avanzamento amministrativo sono però due fatti distinti: la nuova destinazione di un dirigente non certifica, da sola, l’esito di una valutazione sul progetto.",
+        "Il confronto dei resoconti permette di separare ciò che viene annunciato da ciò che resta da completare. La notizia è il trasferimento di Mele, insieme alla posizione espressa dalla concessionaria sullo stato dei documenti. L’indicazione di un progetto pronto non equivale alla comunicazione di una nuova approvazione già intervenuta o all’avvio materiale dei lavori."
+      ],
+      "sources": [
+        {
+          "name": "Calabria 7",
+          "url": "https://calabria7.news/attualita/ponte-sullo-stretto-cambio-al-vertice-mele-lascia-la-direzione-tecnica-e-passa-ad-anas/",
+          "role": "Cambio di incarico e percorso del dirigente"
+        },
+        {
+          "name": "StrettoWeb",
+          "url": "https://www.strettoweb.com/2026/09/ponte-sullo-stretto-conto-alla-rovescia-per-il-cipess-il-progetto-entra-nella-fase-decisiva/2149331/amp/",
+          "role": "Posizione della società sull’iter del progetto"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-13",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 94.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Italia",
+      "title": "Moody’s prevede una crescita italiana dello 0,8% nel 2026",
+      "date": "2026-09-25",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/09/leconomia-italiana-resiste-agli-shock-energetici-moodys-alza-la-stima-del-pil-2026-allo-08-dad5bc5f-2cb3-4001-abb7-aba9c1a5790d.html",
+      "sourceType": "articolo",
+      "homepageOrder": 13,
+      "featured": false,
+      "summary": "Moody’s porta allo 0,8% la previsione di crescita italiana per il 2026. La valutazione richiama la tenuta dell’economia, ma resta una stima, non un risultato acquisito.",
+      "page": "articoli/14-moodys-prevede-una-crescita-italiana-dello-0-8-nel-2026.html",
+      "id": "demo-14",
+      "body": [
+        "Moody’s rivede allo 0,8% la crescita attesa dell’economia italiana nel 2026. Rai News collega la revisione alla dinamica del primo semestre e alla capacità di resistere allo shock energetico. L’agenzia descrive dunque un quadro più resistente di quanto temuto, senza cancellare le incertezze esterne.",
+        "Il resoconto di ANSA aggiunge il profilo dei conti pubblici: il deficit è stimato al 3% del prodotto interno lordo quest’anno e al 2,9% nel 2027. Anche questi numeri appartengono allo scenario previsionale dell’agenzia e possono cambiare con l’andamento dell’economia e delle entrate.",
+        "Per leggere correttamente la notizia bisogna distinguere una previsione sul Pil da un dato definitivo di contabilità nazionale. La percentuale dello 0,8% esprime l’esito atteso per l’intero anno. Non significa che quel risultato sia già stato misurato, né che coincida automaticamente con una nuova decisione sul rating sovrano."
+      ],
+      "sources": [
+        {
+          "name": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/09/leconomia-italiana-resiste-agli-shock-energetici-moodys-alza-la-stima-del-pil-2026-allo-08-dad5bc5f-2cb3-4001-abb7-aba9c1a5790d.html",
+          "role": "Revisione della previsione di crescita"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/09/25/moodys-italia-resiliente-a-shock-energia-questanno-pil-08_84306d2a-f8c6-462b-9347-ab0f655f9d1b.html",
+          "role": "Stime su Pil e deficit"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-14",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 94.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Italia",
+      "title": "Danieli chiude con ricavi in calo e utili in crescita",
+      "date": "2026-09-25",
+      "source": "Rai Tgr Friuli Venezia Giulia",
+      "url": "https://www.rainews.it/amp/tgr/fvg/articoli/2026/09/danieli-chiude-lesercizio-con-utile-e-ordini-in-aumento-1bdef325-7fcf-4bb4-9f1c-d1fe6cb8e32f.html",
+      "sourceType": "articolo",
+      "homepageOrder": 14,
+      "featured": false,
+      "summary": "Danieli registra meno ricavi ma più utili. Crescono anche gli ordini; la produzione di acciaio continua a risentire del costo dell’energia.",
+      "page": "articoli/15-danieli-chiude-con-ricavi-in-calo-e-utili-in-crescita.html",
+      "id": "demo-15",
+      "body": [
+        "Danieli chiude l’esercizio al 30 giugno 2026 con ricavi operativi di 3,8 miliardi di euro, in calo del 9%, e un utile netto di 230,4 milioni, in aumento del 5%. I dati approvati dal consiglio di amministrazione il 25 settembre sono riportati da ANSA e dalla Tgr Friuli Venezia Giulia.",
+        "La testata regionale aggiunge la crescita del portafoglio ordini da 5,38 a 6,04 miliardi. Nella produzione di acciaio, i ricavi risultano in linea con il preventivo, ma la redditività lorda risente ancora dell’elevato costo dell’energia.",
+        "Il confronto chiarisce perché ricavi e utile possano muoversi in direzioni diverse: vendite, margini e risultati finali misurano aspetti differenti dell’attività. Gli ordini costituiscono inoltre una prospettiva di lavoro, non ricavi già realizzati. Il bilancio va quindi letto nelle sue componenti, evitando di riassumerlo con un solo segno positivo o negativo."
+      ],
+      "sources": [
+        {
+          "name": "Rai Tgr Friuli Venezia Giulia",
+          "url": "https://www.rainews.it/amp/tgr/fvg/articoli/2026/09/danieli-chiude-lesercizio-con-utile-e-ordini-in-aumento-1bdef325-7fcf-4bb4-9f1c-d1fe6cb8e32f.html",
+          "role": "Ordini e divisione acciaio"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/09/25/danieli-ricavi-9-ma-utili-5-e-posizione-finanziaria-48_8665d4d4-514e-46e1-a8c3-4fec75f6f72c.html",
+          "role": "Risultati dell’esercizio"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-15",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 93.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Politica",
+      "title": "Tajani rivendica la strategia sui carburanti e il coinvolgimento delle imprese",
+      "date": "2026-09-26",
+      "source": "Radiocor · Borsa Italiana",
+      "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/prima-pagina/dettaglio/carburanti-tajani-da-eni-scelta-piu--giusta-altre-compagnie-seguano-esempio-nRC_26092026_1231_240419946.html",
+      "sourceType": "articolo",
+      "homepageOrder": 15,
+      "featured": false,
+      "summary": "Tajani invita le altre compagnie a seguire Eni nel contenimento dei prezzi. Il governo punta sul dialogo con le imprese dopo il rincaro dei carburanti.",
+      "page": "articoli/17-tajani-rivendica-la-strategia-sui-carburanti-e-il-coinvolgimento-delle-imprese.html",
+      "id": "demo-17",
+      "body": [
+        "Antonio Tajani chiede alle altre compagnie petrolifere di seguire l’iniziativa di Eni sui prezzi alla pompa. Intervenendo al Villaggio della legalità, il ministro descrive la scelta del gruppo come una risposta alle esigenze dei cittadini e richiama la collaborazione tra governo e imprese.",
+        "Radiocor riporta l’accento posto da Tajani sul dialogo, anche per evitare segnali che possano destabilizzare i mercati. La Stampa inserisce l’iniziativa nel confronto politico sulle possibili risposte ai rincari: il blocco volontario annunciato da Eni offre al governo un intervento da valorizzare senza passare subito a una nuova tassazione degli extraprofitti.",
+        "L’appello del ministro non estende però automaticamente l’offerta agli altri marchi. Per gli automobilisti rimangono distinti il prezzo praticato dal distributore, gli interventi fiscali e gli impegni commerciali di ciascuna società. L’adesione di altre compagnie va verificata attraverso i loro annunci, non dedotta dalle parole di Tajani."
+      ],
+      "sources": [
+        {
+          "name": "Radiocor · Borsa Italiana",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/prima-pagina/dettaglio/carburanti-tajani-da-eni-scelta-piu--giusta-altre-compagnie-seguano-esempio-nRC_26092026_1231_240419946.html",
+          "role": "Dichiarazioni del ministro"
+        },
+        {
+          "name": "La Stampa",
+          "url": "https://www.lastampa.it/economia/2026/09/26/news/carburanti_descalzi_tende_la_mano_a_meloni_e_blocca_i_prezzi_di_eni-15749454/",
+          "role": "Contesto del confronto politico"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-17",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 93.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Politica",
+      "title": "Decreto scuola, proteste dei sindacati e critiche dei sindaci",
+      "date": "2026-09-25",
+      "source": "Tuttoscuola",
+      "url": "https://www.tuttoscuola.com/decreto-scuola-dal-sostegno-al-tetto-del-30-per-gli-alunni-stranieri-cosa-cambia-per-studenti-famiglie-e-personale/",
+      "sourceType": "articolo",
+      "homepageOrder": 16,
+      "featured": false,
+      "summary": "Il decreto scuola apre uno scontro sulla composizione delle classi. Sala e l’Anci contestano l’applicabilità del limite nei quartieri con più famiglie straniere.",
+      "page": "articoli/18-decreto-scuola-proteste-dei-sindacati-e-critiche-dei-sindaci.html",
+      "id": "demo-18",
+      "body": [
+        "Il decreto approvato dal Consiglio dei ministri il 24 settembre interviene su più aspetti dell’organizzazione scolastica. Tuttoscuola elenca sostegno, composizione delle classi, integrazione linguistica, libri di testo e personale: un pacchetto più ampio della sola misura sugli alunni stranieri che domina il dibattito. La soglia riguarda determinate categorie nelle classi prime dal 2027/28, non indistintamente tutti gli studenti stranieri.",
+        "Le obiezioni degli amministratori riguardano soprattutto la distribuzione concreta degli studenti. Secondo il resoconto di ANSA, Giuseppe Sala teme che il limite del 30% possa rendere impossibile organizzare alcune scuole milanesi. Anche Gaetano Manfredi, presidente dell’Anci, richiama le concentrazioni storiche delle comunità nei quartieri.",
+        "Il 25 settembre, sempre secondo ANSA, erano ancora in corso verifiche sulle coperture prima dell’invio al Quirinale. Le chiusure evocate da Sala sono una conseguenza temuta, non provvedimenti già disposti. La distinzione tra il testo approvato dal governo, i passaggi successivi e le modalità applicative resta essenziale per valutare gli effetti sulle famiglie."
+      ],
+      "sources": [
+        {
+          "name": "Tuttoscuola",
+          "url": "https://www.tuttoscuola.com/decreto-scuola-dal-sostegno-al-tetto-del-30-per-gli-alunni-stranieri-cosa-cambia-per-studenti-famiglie-e-personale/",
+          "role": "Ambiti del decreto e composizione delle classi"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/amp/sito/notizie/politica/2026/09/25/il-decreto-non-ancora-al-colle.-sala-costretti-a-chiudere-qualche-scuola_c9ad1fae-9fa8-4752-ab02-56970182f3fa.html",
+          "role": "Iter del testo e reazioni dei sindaci"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-18",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 92.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Politica",
+      "title": "Dal 2027 tessera elettorale sullo smartphone, resta valida quella cartacea",
+      "date": "2026-09-25",
+      "source": "LaPresse",
+      "url": "https://www.lapresse.it/politica/2026/09/25/tessera-elettorale-addio-bastera-lo-smartphone/",
+      "sourceType": "articolo",
+      "homepageOrder": 17,
+      "featured": false,
+      "summary": "Il governo annuncia la tessera elettorale sul telefono per il 2027. Resterà la versione cartacea; il voto continuerà a svolgersi al seggio.",
+      "page": "articoli/19-dal-2027-tessera-elettorale-sullo-smartphone-resta-valida-quella-cartacea.html",
+      "id": "demo-19",
+      "body": [
+        "Paolo Zangrillo annuncia l’obiettivo di rendere disponibile una tessera elettorale digitale per le politiche del 2027. LaPresse racconta la presentazione a Genova: il documento sul telefono dovrebbe ridurre i disagi dovuti a smarrimenti e richieste di duplicati agli uffici comunali.",
+        "ANSA precisa che la versione cartacea resterà disponibile e indica i decreti attuativi come un passaggio ancora necessario. La novità riguarda dunque il documento da presentare al seggio: non introduce il voto da casa o una scheda compilata online.",
+        "L’annuncio suscita anche obiezioni politiche. LaPresse riporta la richiesta di Filiberto Zaratti di garantire la scelta a chi ha meno familiarità con gli strumenti digitali. Riccardo Magi mette invece a confronto questa apertura con i limiti alla raccolta digitale delle firme elettorali. Si tratta di due discussioni diverse, sull’accesso al voto e sulla presentazione delle candidature, che convergono sul tema dell’uso della tecnologia nelle procedure democratiche."
+      ],
+      "sources": [
+        {
+          "name": "LaPresse",
+          "url": "https://www.lapresse.it/politica/2026/09/25/tessera-elettorale-addio-bastera-lo-smartphone/",
+          "role": "Annuncio e reazioni politiche"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/09/25/alle-urne-nel-2027-con-la-tessera-elettorale-digitale-_687d85ef-5cde-4684-83ed-2b66537ebf5f.html",
+          "role": "Calendario e mantenimento della tessera cartacea"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-19",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 92.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Politica",
+      "title": "Forza Italia, Zangrillo prepara il passaggio della segreteria piemontese",
+      "date": "2026-09-25",
+      "source": "Corriere Torino",
+      "url": "https://torino.corriere.it/notizie/politica/26_settembre_25/paolo-zangrillo-lascia-la-segreteria-piemontese-di-forza-italia-dopo-9-anni-al-suo-posto-roberto-rosso-04bc6d03-6926-428f-a410-8c67602fdxlk.shtml",
+      "sourceType": "articolo",
+      "homepageOrder": 18,
+      "featured": false,
+      "summary": "Zangrillo non si ricandiderà alla guida piemontese di Forza Italia. Propone Roberto Rosso; la scelta dovrà passare dal congresso regionale.",
+      "page": "articoli/20-forza-italia-zangrillo-prepara-il-passaggio-della-segreteria-piemontese.html",
+      "id": "demo-20",
+      "body": [
+        "Paolo Zangrillo prepara il passaggio della segreteria piemontese di Forza Italia. Il Corriere Torino riferisce la sua intenzione di non ricandidarsi al congresso e il sostegno al vice Roberto Rosso, presentato come una scelta capace di tenere unito il partito.",
+        "Repubblica dedica spazio ai nuovi equilibri regionali e alla richiesta di dare più voce ai territori. Nel racconto compare anche il sostegno di Alberto Cirio a un rinnovamento nella continuità. Il confronto riguarda quindi tanto il nome del successore quanto il rapporto tra la direzione e le strutture locali.",
+        "L’indicazione politica non coincide con un’elezione già avvenuta. Le fonti collocano il passaggio nell’autunno ma non riportano lo stesso termine per il congresso: è prudente non presentare una data definitiva. Il fatto acquisito è la decisione annunciata da Zangrillo; la formalizzazione della nuova guida resta affidata agli organismi del partito."
+      ],
+      "sources": [
+        {
+          "name": "Corriere Torino",
+          "url": "https://torino.corriere.it/notizie/politica/26_settembre_25/paolo-zangrillo-lascia-la-segreteria-piemontese-di-forza-italia-dopo-9-anni-al-suo-posto-roberto-rosso-04bc6d03-6926-428f-a410-8c67602fdxlk.shtml",
+          "role": "Annuncio del passaggio e candidatura Rosso"
+        },
+        {
+          "name": "la Repubblica · Torino",
+          "url": "https://torino.repubblica.it/cronaca/2026/09/26/news/nuovi_equilibri_in_forza_italia_rosso_sara_segretario_piu_voce_ai_territori-425608131/amp/",
+          "role": "Equilibri regionali e territori"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-20",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 91.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Politica",
+      "title": "Renzi invita De Luca alla Leopolda mentre riparte il confronto sul centro",
+      "date": "2026-09-25",
+      "source": "Open",
+      "url": "https://www.open.online/2026/09/25/matteo-renzi-leopolda-de-luca-chi-ci-sara/",
+      "sourceType": "articolo",
+      "homepageOrder": 19,
+      "featured": false,
+      "summary": "Renzi invita De Luca alla Leopolda. Il programma dell’incontro si intreccia con le iniziative per riunire l’area centrista del centrosinistra.",
+      "page": "articoli/21-renzi-invita-de-luca-alla-leopolda-mentre-riparte-il-confronto-sul-centro.html",
+      "id": "demo-21",
+      "body": [
+        "L’invito di Matteo Renzi a Vincenzo De Luca per la Leopolda aggiunge un tassello al confronto sul centro politico. Open descrive un programma con ospiti provenienti da percorsi diversi, tra cui Stefano Bonaccini e Mario Calabresi, e colloca De Luca nell’apertura della manifestazione.",
+        "ANSA inserisce la scelta in un quadro più largo: proposte di aggregazione, rapporti con il Partito democratico e iniziative come quella richiamata da Clemente Mastella per una nuova Margherita. Il nodo è trovare una forma politica comune a esperienze che restano separate.",
+        "Partecipare a un evento non equivale ad aderire a un nuovo partito, né certifica un accordo elettorale. La Leopolda offre un luogo di confronto e una visibilità condivisa; restano da definire programmi, alleanze e candidature. Anche le ipotesi che circolano sui singoli nomi devono quindi essere lette come interlocuzioni politiche finché non vengono accompagnate da decisioni esplicite."
+      ],
+      "sources": [
+        {
+          "name": "Open",
+          "url": "https://www.open.online/2026/09/25/matteo-renzi-leopolda-de-luca-chi-ci-sara/",
+          "role": "Invitati e programma della Leopolda"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/amp/sito/notizie/politica/2026/09/25/grandi-manovre-al-centro-e-renzi-invita-de-luca-alla-leopolda_88a9251d-d76b-47fa-ba5f-63c431fcdd5d.html",
+          "role": "Confronto tra le forze centriste"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-21",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 91.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Politica",
+      "title": "Malpensa intitolata a Berlusconi, scontro tra Salvini e Sala",
+      "date": "2026-09-25",
+      "source": "La Stampa · Milano",
+      "url": "https://www.lastampa.it/milano/2026/09/25/news/malpensa_aeroporto_intitolato_silvio_berlusconi_cerimonia_oggi-15748788/amp/",
+      "sourceType": "articolo",
+      "homepageOrder": 20,
+      "featured": false,
+      "summary": "La cerimonia per l’intitolazione di Malpensa a Berlusconi riapre il confronto politico. Sala spiega la propria assenza richiamando la sua opposizione alla scelta.",
+      "page": "articoli/23-malpensa-intitolata-a-berlusconi-scontro-tra-salvini-e-sala.html",
+      "id": "demo-23",
+      "body": [
+        "La cerimonia del 25 settembre al Terminal 1 di Malpensa rende visibile l’intitolazione dell’aeroporto a Silvio Berlusconi. La Stampa racconta la presentazione della targa e l’intervento di Matteo Salvini, che respinge una lettura esclusivamente partitica dell’iniziativa.",
+        "L’assenza del sindaco di Milano diventa uno dei temi della giornata. Nel resoconto di ANSA, Giuseppe Sala la presenta come una scelta coerente con la battaglia condotta contro l’intitolazione: partecipare con un sorriso, sostiene, avrebbe contraddetto quella posizione. Nello stesso giorno il sindaco prende parte a un’inaugurazione dedicata a Piersanti Mattarella a Inveruno.",
+        "Il contrasto riguarda dunque il valore pubblico attribuito al nome dell’aeroporto e il modo di rappresentare Milano. La cerimonia e le reazioni dei protagonisti sono fatti distinti: la presenza o l’assenza di un amministratore esprime una posizione politica, senza modificare da sola l’intitolazione celebrata."
+      ],
+      "sources": [
+        {
+          "name": "La Stampa · Milano",
+          "url": "https://www.lastampa.it/milano/2026/09/25/news/malpensa_aeroporto_intitolato_silvio_berlusconi_cerimonia_oggi-15748788/amp/",
+          "role": "Cerimonia al Terminal 1"
+        },
+        {
+          "name": "ANSA Lombardia",
+          "url": "https://www.ansa.it/amp/lombardia/notizie/2026/09/25/sala-ho-lottato-contro-laeroporto-a-berlusconi-dovevo-esserci-con-un-sorriso_9d560ed1-c009-45e2-853e-59a6e0b3f6c3.html",
+          "role": "Spiegazione dell’assenza di Sala"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-23",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 90.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Cronaca",
+      "title": "La cenere dell’Etna ferma Catania: voli sospesi fino a domenica",
+      "date": "2026-09-26",
+      "source": "Rai Tgr Sicilia",
+      "url": "https://www.rainews.it/tgr/sicilia/articoli/2026/09/fontanarossa-nuovo-stop-15ddc924-ddc2-4d10-8ae8-14dbda1334da.html",
+      "sourceType": "articolo",
+      "homepageOrder": 21,
+      "featured": false,
+      "summary": "La cenere dell’Etna ferma i voli a Catania. Nel corso della giornata lo stop viene esteso: l’aggiornamento serale riguarda arrivi e partenze.",
+      "page": "articoli/24-la-cenere-delletna-ferma-catania-voli-sospesi-fino-a-domenica.html",
+      "id": "demo-24",
+      "body": [
+        "L’attività dell’Etna provoca nuove limitazioni all’aeroporto di Catania. La Tgr Sicilia riferisce una prima sospensione degli arrivi fino alle 16, comunicata dalla società di gestione mentre la cenere compromette l’operatività dello scalo.",
+        "Il quadro cambia durante il 26 settembre. Nell’aggiornamento delle 18:45, Sky TG24 riporta lo stop sia agli arrivi sia alle partenze fino alle 12 del giorno successivo. I due orari documentano fasi diverse dell’emergenza: il provvedimento iniziale è stato seguito da una restrizione più ampia.",
+        "Per chi viaggia, la conseguenza è l’incertezza sugli itinerari previsti, non la possibilità di ricavare da un titolo lo stato di ogni volo. Questa pagina conserva gli aggiornamenti dell’edizione di prova e distingue la sospensione generale dalle decisioni delle singole compagnie. Gli eventuali successivi ripristini non sono registrati automaticamente in questa copia del sito."
+      ],
+      "sources": [
+        {
+          "name": "Rai Tgr Sicilia",
+          "url": "https://www.rainews.it/tgr/sicilia/articoli/2026/09/fontanarossa-nuovo-stop-15ddc924-ddc2-4d10-8ae8-14dbda1334da.html",
+          "role": "Prima sospensione degli arrivi"
+        },
+        {
+          "name": "Sky TG24",
+          "url": "https://tg24.sky.it/cronaca/video/2026/09/26/etna-cenere-catania-voli-sospesi-1127404",
+          "role": "Aggiornamento serale su arrivi e partenze"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-24",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 90.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Cronaca",
+      "title": "Nepal, un mese dopo le inondazioni migliaia di dispersi e famiglie senza casa",
+      "date": "2026-09-26",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/visual-stories/2026/09/26/a-month-on-nepal-flood-victims-remain-missing-as-hope-and-posters-fade",
+      "sourceType": "articolo",
+      "homepageOrder": 22,
+      "featured": false,
+      "summary": "A un mese dalle alluvioni in Nepal migliaia di persone risultano ancora disperse. Alla ricerca dei familiari si affianca la ricostruzione di servizi e abitazioni.",
+      "page": "articoli/25-nepal-un-mese-dopo-le-inondazioni-migliaia-di-dispersi-e-famiglie-senza-casa.html",
+      "id": "demo-25",
+      "body": [
+        "A un mese dalle alluvioni, le famiglie nepalesi continuano a cercare notizie dei dispersi. Il Kathmandu Post racconta l’attesa attraverso manifesti e testimonianze: il trascorrere delle settimane rende più difficile mantenere la speranza, mentre numerose persone non sono state ritrovate.",
+        "Le Nazioni Unite descrivono in un bilancio distinto la risposta nelle aree di Rasuwa, Nuwakot e Dhading. Il quadro comprende oltre cinquemila dispersi e gravi perdite di abitazioni, mezzi di sostentamento e servizi. Le cifre vanno riferite al territorio e al momento della rilevazione, evitando di sommare bilanci che possono sovrapporsi.",
+        "I due resoconti illuminano aspetti complementari della stessa emergenza: l’incertezza individuale delle famiglie e il lavoro collettivo per ripristinare condizioni di vita accettabili. La fine della fase più visibile dei soccorsi non chiude la crisi. Assistenza, collegamenti e possibilità di tornare a lavorare restano parte della risposta di lungo periodo."
+      ],
+      "sources": [
+        {
+          "name": "The Kathmandu Post",
+          "url": "https://kathmandupost.com/visual-stories/2026/09/26/a-month-on-nepal-flood-victims-remain-missing-as-hope-and-posters-fade",
+          "role": "Reportage sulle famiglie dei dispersi"
+        },
+        {
+          "name": "Nazioni Unite in Nepal",
+          "url": "https://nepal.un.org/en/323295-one-month-rasuwa-floods-six-ways-coordinated-action-making-difference",
+          "role": "Bilancio e coordinamento degli aiuti"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-25",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 89.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Cronaca",
+      "title": "Massachusetts in allerta per la tempesta del fine settimana, traghetti sospesi",
+      "date": "2026-09-25",
+      "source": "Massachusetts · Ufficio della governatrice",
+      "url": "https://www.mass.gov/news/governor-healey-issues-preparedness-tips-ahead-of-the-weekend-storm",
+      "sourceType": "articolo",
+      "homepageOrder": 23,
+      "featured": false,
+      "summary": "Vento e pioggia portano alla cancellazione di collegamenti marittimi nel Massachusetts. Gli avvisi distinguono i traghetti MBTA dalle rotte dei singoli operatori.",
+      "page": "articoli/26-massachusetts-in-allerta-per-la-tempesta-del-fine-settimana-traghetti-sospesi.html",
+      "id": "demo-26",
+      "body": [
+        "Il Massachusetts affronta un fine settimana di maltempo con piogge intense e vento. Nell’avviso del 25 settembre, l’ufficio della governatrice Maura Healey indica precipitazioni rilevanti soprattutto nella parte orientale dello Stato e comunica la cancellazione dei traghetti MBTA per il 26 e 27 settembre.",
+        "Le interruzioni non riguardano un unico servizio. Seastreak pubblica separatamente gli avvisi per le proprie rotte da New Bedford verso Martha’s Vineyard e Nantucket, con cancellazioni anche il 26 settembre. Il bollettino pubblico e quello dell’operatore servono quindi a ricostruire collegamenti differenti.",
+        "Dire che tutti i traghetti del Massachusetts siano fermi andrebbe oltre queste comunicazioni. Il punto per i passeggeri è identificare la propria compagnia, la rotta e la data, senza estendere automaticamente uno stop ad altri porti. Gli avvisi qui collegati documentano l’episodio del fine settimana; le pagine dei servizi possono essere aggiornate successivamente con informazioni nuove."
+      ],
+      "sources": [
+        {
+          "name": "Massachusetts · Ufficio della governatrice",
+          "url": "https://www.mass.gov/news/governor-healey-issues-preparedness-tips-ahead-of-the-weekend-storm",
+          "role": "Previsioni e cancellazioni MBTA"
+        },
+        {
+          "name": "Seastreak",
+          "url": "https://seastreak.com/service-alerts/",
+          "role": "Avvisi dell’operatore per le proprie rotte"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-26",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 89.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Cronaca",
+      "title": "Atene, si cercano dispersi dopo il crollo di una palazzina vicino all’Acropoli",
+      "date": null,
+      "source": "Euronews",
+      "url": "https://it.euronews.com/video/2026/09/25/esplosione-vicino-allacropoli-fa-crollare-edificio-a-plaka-e-ferisce-due-persone",
+      "sourceType": "articolo",
+      "homepageOrder": 24,
+      "featured": false,
+      "summary": "Un’esplosione provoca il crollo di un edificio a Plaka, ai piedi dell’Acropoli. I soccorritori cercano eventuali persone coinvolte; la causa resta da chiarire.",
+      "page": "articoli/27-atene-si-cercano-dispersi-dopo-il-crollo-di-una-palazzina-vicino-allacropoli.html",
+      "id": "demo-27",
+      "body": [
+        "Un edificio nel quartiere ateniese di Plaka è crollato la mattina del 25 settembre. Euronews riferisce una forte esplosione e almeno due feriti. Le immagini pubblicate da Repubblica mostrano dall’alto l’area danneggiata, a breve distanza dall’Acropoli.",
+        "Le prime notizie includono verifiche sulla possibile presenza di persone disperse. Repubblica cita la ricerca di tre turisti statunitensi, ma questa segnalazione non può essere trasformata in un bilancio definitivo di vittime: riguarda accertamenti in corso nelle ore successive al crollo.",
+        "Restano da distinguere l’evento osservato, le informazioni dei soccorritori e la ricostruzione delle cause. La presenza di un’esplosione nei resoconti non stabilisce da sola che cosa l’abbia provocata. Per questa edizione vengono quindi riportati i feriti segnalati e le ricerche, senza attribuire responsabilità o presentare come confermate ipotesi non documentate dalle fonti consultate."
+      ],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://it.euronews.com/video/2026/09/25/esplosione-vicino-allacropoli-fa-crollare-edificio-a-plaka-e-ferisce-due-persone",
+          "role": "Esplosione e primi soccorsi"
+        },
+        {
+          "name": "la Repubblica",
+          "url": "https://www.repubblica.it/esteri/2026/09/25/video/atene_crolla_edificio_ai_piedi_dellacropoli_le_immagini_registrate_con_un_drone-425607424/",
+          "role": "Immagini e verifiche sui dispersi"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-27",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 88.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Cronaca",
+      "title": "Leone XIV in Francia richiama l’aumento dei giovani adulti che chiedono il battesimo",
+      "date": "2026-09-26",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/it/papa/news/2026-09/francia-viaggioapostolico-battesimo-adulti.html",
+      "sourceType": "articolo",
+      "homepageOrder": 25,
+      "featured": false,
+      "summary": "A Parigi il Papa incontra catecumeni e nuovi battezzati. La visita mette al centro il percorso degli adulti che si avvicinano alla Chiesa.",
+      "page": "articoli/29-leone-xiv-in-francia-richiama-laumento-dei-giovani-adulti-che-chiedono-il-battesimo.html",
+      "id": "demo-29",
+      "body": [
+        "L’incontro all’Institut Catholique de Paris riunisce catecumeni e persone battezzate da poco. Vatican News racconta le testimonianze ascoltate dal Papa e colloca l’appuntamento nel viaggio in Francia, con un’attenzione particolare alle scelte religiose compiute in età adulta.",
+        "Il servizio richiama gli oltre tredicimila battesimi di adulti celebrati a Pasqua nel 2026. ANSA sottolinea lo stupore espresso dal pontefice di fronte alle richieste: il tema è la motivazione personale di chi intraprende un percorso di fede, più che una valutazione generale della società francese.",
+        "Il dato sui battesimi riguarda un gruppo preciso e non misura, da solo, l’appartenenza religiosa dell’intera popolazione. Le testimonianze raccolte durante l’incontro aiutano a capire le esperienze individuali; per descrivere una tendenza nazionale servirebbero serie confrontabili e un contesto più ampio. La notizia della visita resta centrata sul dialogo tra il Papa e i partecipanti."
+      ],
+      "sources": [
+        {
+          "name": "Vatican News",
+          "url": "https://www.vaticannews.va/it/papa/news/2026-09/francia-viaggioapostolico-battesimo-adulti.html",
+          "role": "Resoconto dell’incontro e dati sui battesimi"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/09/26/il-papa-in-francia-stupito-da-quanti-chiedono-il-battesimo_d8fdc5a6-380a-41f8-bc47-ce2ecc6811e2.html",
+          "role": "Dichiarazioni del pontefice"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-29",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 88.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Tecnologia",
+      "title": "Stati Uniti e Cina aprono un canale di confronto sugli incidenti legati all’IA",
+      "date": "2026-09-26",
+      "source": "Hürriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/amp/us-china-agree-to-open-ai-incident-reporting-channel-227384",
+      "sourceType": "articolo",
+      "homepageOrder": 26,
+      "featured": false,
+      "summary": "Stati Uniti e Cina aprono un confronto sugli incidenti legati all’intelligenza artificiale. Il dialogo sulla sicurezza procede accanto alla competizione tecnologica.",
+      "page": "articoli/30-stati-uniti-e-cina-aprono-un-canale-di-confronto-sugli-incidenti-legati-allia.html",
+      "id": "demo-30",
+      "body": [
+        "Washington e Pechino concordano l’apertura di un canale dedicato agli incidenti legati all’intelligenza artificiale. Hürriyet Daily News riporta l’intesa dopo il vertice tra Donald Trump e Xi Jinping: il confronto mira a rendere possibile una comunicazione tra i due Paesi quando emergono rischi connessi a questi sistemi.",
+        "La proposta ha un antecedente negli incontri economici dei giorni precedenti. Associated Press racconta che Scott Bessent aveva prospettato un meccanismo di comunicazione su questioni di sicurezza nazionale dopo il confronto con He Lifeng. L’annuncio del vertice si inserisce quindi in un percorso diplomatico già avviato.",
+        "Un canale di dialogo non equivale a regole comuni su ogni uso dell’AI. Per valutarne la portata serviranno procedure, soglie per le segnalazioni e indicazioni sui soggetti coinvolti. Per ora la novità è la disponibilità a discutere i rischi, mentre resta aperta la competizione sullo sviluppo e sull’impiego delle tecnologie."
+      ],
+      "sources": [
+        {
+          "name": "Hürriyet Daily News",
+          "url": "https://www.hurriyetdailynews.com/amp/us-china-agree-to-open-ai-incident-reporting-channel-227384",
+          "role": "Intesa annunciata dopo il vertice"
+        },
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/2c7f54f07e755f506d9db9b91df282bd",
+          "role": "Precedente proposta nei colloqui economici"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-30",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 87.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Tecnologia",
+      "title": "TikTok raggiunge un accordo in Alabama sulle accuse di dipendenza dei giovani",
+      "date": "2026-09-26",
+      "source": "Procuratore generale dell’Alabama",
+      "url": "https://www.alabamaag.gov/attorney-general-marshall-announces-historic-multi-million-dollar-settlement-with-tiktok/",
+      "sourceType": "articolo",
+      "homepageOrder": 27,
+      "featured": false,
+      "summary": "TikTok raggiunge un accordo con l’Alabama sul contenzioso per la tutela dei minori. Il pagamento può crescere se altri Stati aderiranno a intese analoghe.",
+      "page": "articoli/31-tiktok-raggiunge-un-accordo-in-alabama-sulle-accuse-di-dipendenza-dei-giovani.html",
+      "id": "demo-31",
+      "body": [
+        "TikTok chiude con un accordo il contenzioso avviato dall’Alabama sulle conseguenze della piattaforma per i minori. Il procuratore generale dello Stato annuncia un pagamento minimo di cento milioni di dollari e interventi sulle funzioni di sicurezza rivolte agli utenti più giovani.",
+        "Reuters aggiunge le condizioni economiche dell’intesa: l’importo può arrivare a trecento milioni se un numero sufficiente di altri procuratori generali raggiungerà accordi analoghi entro il periodo previsto. Il massimo annunciato non va quindi confuso con una somma già integralmente dovuta nelle stesse condizioni del pagamento iniziale.",
+        "La controversia riguardava accuse di progettazione capace di alimentare un uso compulsivo e di comunicazioni fuorvianti sui rischi. Sono le contestazioni alla base della causa, non una nuova sentenza che accerta tutti i fatti. L’accordo evita il processo previsto e va letto sia per gli impegni economici sia per le modifiche richieste alla piattaforma."
+      ],
+      "sources": [
+        {
+          "name": "Procuratore generale dell’Alabama",
+          "url": "https://www.alabamaag.gov/attorney-general-marshall-announces-historic-multi-million-dollar-settlement-with-tiktok/",
+          "role": "Comunicato della parte pubblica sull’accordo"
+        },
+        {
+          "name": "Reuters · MarketScreener",
+          "url": "https://www.marketscreener.com/news/tiktok-settles-with-alabama-ahead-of-trial-over-teen-mental-health-harms-ce785adcd989f223",
+          "role": "Condizioni economiche e contesto del contenzioso"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-31",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 87.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Tecnologia",
+      "title": "Google prepara un esperimento per portare i propri chip di IA nello spazio",
+      "date": "2026-09-25",
+      "source": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "sourceType": "articolo",
+      "homepageOrder": 28,
+      "featured": false,
+      "summary": "Google sperimenta il calcolo AI nello spazio con Project Suncatcher. Il progetto studia energia solare, collegamenti ottici e resistenza dei processori alle radiazioni.",
+      "page": "articoli/32-google-prepara-un-esperimento-per-portare-i-propri-chip-di-ia-nello-spazio.html",
+      "id": "demo-32",
+      "body": [
+        "Project Suncatcher esplora la possibilità di portare parte del calcolo per l’intelligenza artificiale su satelliti alimentati dal Sole. Google descrive un programma di ricerca con processori TPU e prove preliminari: l’obiettivo è verificare la fattibilità di un’architettura che sfrutti l’energia disponibile in orbita.",
+        "Il lavoro scientifico pubblicato su arXiv presenta la struttura ipotizzata, composta da satelliti collegati otticamente. Il problema non è soltanto alimentare i chip: le unità devono scambiarsi dati e funzionare in un ambiente diverso da quello di un centro di calcolo terrestre.",
+        "La comunicazione di Google richiama anche i test sulle radiazioni effettuati con protoni. Il quadro è dunque sperimentale, con più ostacoli da valutare insieme. Non si tratta dell’annuncio di un servizio commerciale già disponibile o della sostituzione imminente dei data center. Il prototipo serve a raccogliere evidenze sul funzionamento dell’idea prima di un eventuale impiego su scala maggiore."
+      ],
+      "sources": [
+        {
+          "name": "Google Research",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+          "role": "Descrizione del progetto e delle prove"
+        },
+        {
+          "name": "arXiv · studio Project Suncatcher",
+          "url": "https://arxiv.org/abs/2511.19468",
+          "role": "Documento tecnico sull’architettura proposta"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-32",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 86.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Tecnologia",
+      "title": "Gemini aggiunge le telefonate alle attività commerciali per conto degli utenti",
+      "date": "2026-09-25",
+      "source": "Google · Guida Gemini",
+      "url": "https://support.google.com/gemini/answer/18336420?hl=en-GB",
+      "sourceType": "articolo",
+      "homepageOrder": 29,
+      "featured": false,
+      "summary": "Gemini prova a telefonare alle attività commerciali per conto dell’utente. La sperimentazione parte negli Stati Uniti, con approvazione della richiesta e chiamate dichiarate come AI.",
+      "page": "articoli/33-gemini-aggiunge-le-telefonate-alle-attivita-commerciali-per-conto-degli-utenti.html",
+      "id": "demo-33",
+      "body": [
+        "Google sperimenta una funzione che consente a Gemini di chiamare un’attività commerciale per prenotare o chiedere informazioni. TechSpot descrive il debutto sui Pixel 11; la documentazione ufficiale circoscrive l’accesso a utenti maggiorenni negli Stati Uniti, con ulteriori requisiti di dispositivo, abbonamento e servizio telefonico.",
+        "Prima della chiamata l’utente può rivedere l’incarico e autorizzarlo. La guida di Google specifica che il sistema si presenta come assistente AI e informa sulla registrazione. Sono disponibili strumenti per seguire la conversazione, consultare la trascrizione o intervenire.",
+        "Questi dettagli definiscono la differenza tra una dimostrazione e una disponibilità generalizzata. La prova descritta non costituisce un lancio in Italia e non autorizza l’assistente a gestire liberamente qualsiasi telefonata. Il punto da osservare è quanto bene riesca a svolgere un compito circoscritto, mantenendo riconoscibile la propria natura automatizzata e lasciando all’utente il controllo della richiesta."
+      ],
+      "sources": [
+        {
+          "name": "Google · Guida Gemini",
+          "url": "https://support.google.com/gemini/answer/18336420?hl=en-GB",
+          "role": "Requisiti, autorizzazione e funzionamento"
+        },
+        {
+          "name": "TechSpot",
+          "url": "https://www.techspot.com/news/113983-google-gemini-can-now-call-businesses-you.html",
+          "role": "Resoconto del lancio sperimentale"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-33",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 86.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Tecnologia",
+      "title": "Amazon blocca l’agente di Meta dedicato agli acquisti",
+      "date": "2026-09-25",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/21/amazon-meta-muse-ai-agentic-shopping",
+      "sourceType": "articolo",
+      "homepageOrder": 30,
+      "featured": false,
+      "summary": "Amazon blocca l’agente di acquisto di Meta. Le aziende divergono su autorizzazione, identificazione del software e gestione dei dati durante gli acquisti.",
+      "page": "articoli/34-amazon-blocca-lagente-di-meta-dedicato-agli-acquisti.html",
+      "id": "demo-34",
+      "body": [
+        "Amazon impedisce all’agente di acquisto Muse di Meta di operare sul proprio sito. Axios colloca il blocco poco dopo il lancio del servizio e riporta la posizione di Amazon: chi offre un negozio online deve poter scegliere se e come consentire l’accesso ad assistenti automatici.",
+        "Retail Gazette approfondisce il contrasto. Amazon contesta l’assenza di un’identificazione e di un’autorizzazione adeguate e solleva preoccupazioni sui dati. Meta risponde che il sistema conserva in modo sicuro le credenziali e che l’azienda non può vedere password e informazioni di pagamento. Queste restano le spiegazioni delle due società.",
+        "La disputa riguarda chi controlla l’interazione quando un software compra per conto di una persona: il sito, il produttore dell’assistente o l’utente. Non emerge da questi resoconti una decisione generale sulla liceità degli agenti commerciali. Il caso mostra invece un conflitto concreto sulle condizioni di accesso a una grande piattaforma."
+      ],
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/09/21/amazon-meta-muse-ai-agentic-shopping",
+          "role": "Blocco e posizione di Amazon"
+        },
+        {
+          "name": "Retail Gazette",
+          "url": "https://www.retailgazette.co.uk/blog/2026/09/amazon-blocks-metas-new-ai-shopping-agent-from-its-website/",
+          "role": "Divergenze sui dati e replica di Meta"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-34",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 85.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Tecnologia",
+      "title": "Asus conferma una violazione dei dati dei clienti del negozio online",
+      "date": "2026-09-25",
+      "source": "Overclock3D",
+      "url": "https://overclock3d.net/news/misc/asus-warns-customers-of-eshop-data-breach/",
+      "sourceType": "articolo",
+      "homepageOrder": 31,
+      "featured": false,
+      "summary": "Asus comunica un accesso non autorizzato a dati del negozio online. I resoconti citano contatti e ordini; l’azienda afferma che i dati finanziari non sono coinvolti.",
+      "page": "articoli/35-asus-conferma-una-violazione-dei-dati-dei-clienti-del-negozio-online.html",
+      "id": "demo-35",
+      "body": [
+        "Asus avverte i clienti di un accesso non autorizzato a una parte dei sistemi del proprio negozio online. Overclock3D descrive la comunicazione inviata dall’azienda, secondo cui l’incidente è stato contenuto e sono state adottate ulteriori misure mentre proseguono gli accertamenti.",
+        "Tom’s Hardware specifica le categorie di informazioni indicate nei resoconti: dati di contatto e informazioni sugli ordini. La società sostiene che i dati finanziari non siano stati raggiunti. Non è una garanzia estesa a qualunque informazione personale, né consente di ricavare il numero totale degli utenti coinvolti.",
+        "Le due testate discutono lo stesso avviso aziendale, non due verifiche tecniche indipendenti. Il rischio evidenziato è che dettagli reali su un acquisto rendano più convincenti messaggi ingannevoli. La ricostruzione resta legata alle informazioni rese pubbliche da Asus; estensione geografica, cause e dimensioni complete dell’incidente richiedono ulteriori risultati dell’indagine."
+      ],
+      "sources": [
+        {
+          "name": "Overclock3D",
+          "url": "https://overclock3d.net/news/misc/asus-warns-customers-of-eshop-data-breach/",
+          "role": "Resoconto dell’avviso ai clienti"
+        },
+        {
+          "name": "Tom’s Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/asus-online-store-hit-by-data-breach-customer-contact-details-and-order-information-revealed",
+          "role": "Categorie di dati e rischi segnalati"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-35",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 85.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Movimenti",
+      "title": "Trapani-Birgi, il comitato No F-35 prosegue la mobilitazione contro il polo di addestramento",
+      "date": "2026-09-24",
+      "source": "Umanità Nova",
+      "url": "https://umanitanova.org/lotte-no-f-35-a-trapani-birgi-contro-lhub-delladdestramento-piloti-dei-cacciabombardieri/",
+      "sourceType": "articolo",
+      "kind": "Mobilitazione",
+      "homepageOrder": 32,
+      "featured": false,
+      "summary": "A Trapani il comitato No F-35 contesta il polo di addestramento militare. La mobilitazione locale si accompagna a iniziative parlamentari dei Verdi.",
+      "page": "articoli/38-trapani-birgi-il-comitato-no-f-35-prosegue-la-mobilitazione-contro-il-polo-di-addestramento.html",
+      "id": "demo-38",
+      "body": [
+        "Il comitato No F-35 di Trapani e Marsala mantiene la mobilitazione contro il polo di addestramento a Trapani-Birgi. Umanità Nova racconta presìdi periodici, compreso quello del 17 settembre, e presenta le ragioni degli organizzatori: opposizione al riarmo e richiesta di destinare risorse a servizi sociali e sanità.",
+        "Un distinto resoconto della Sicilia documenta l’intervento parlamentare di Alleanza Verdi e Sinistra attraverso un’interrogazione scritta. Lo stesso articolo riporta la posizione favorevole del presidente di Airgest, Salvatore Ombra, mostrando che la discussione locale comprende valutazioni opposte sul progetto.",
+        "L’articolo del movimento è una fonte diretta per le rivendicazioni del comitato, non una valutazione neutrale di ogni effetto del polo. Accostarlo alla cronaca locale permette di distinguere la mobilitazione, le iniziative istituzionali e il sostegno al progetto. Le ricadute economiche o sociali prospettate dalle parti restano argomenti del confronto, da verificare separatamente."
+      ],
+      "sources": [
+        {
+          "name": "Umanità Nova",
+          "url": "https://umanitanova.org/lotte-no-f-35-a-trapani-birgi-contro-lhub-delladdestramento-piloti-dei-cacciabombardieri/",
+          "role": "Voce del movimento e rivendicazioni"
+        },
+        {
+          "name": "La Sicilia",
+          "url": "https://www.lasicilia.it/news/attualita/3001206/addestramento-degli-f-35-i-verdi-alzano-le-barricate-in-parlamento.html",
+          "role": "Interrogazione parlamentare e posizione di Airgest"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-38",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 84.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Movimenti",
+      "title": "Torino, il coordinamento contro il riarmo prepara il corteo del 24 ottobre",
+      "date": "2026-09-23",
+      "source": "Infoaut",
+      "url": "https://www.infoaut.org/conflitti-globali/torino-e-contro-il-riarmo-un-inizio-di-mobilitazione-verso-e-oltre-il-corteo-contro-il-riarmo-del-24-ottobre",
+      "sourceType": "articolo",
+      "kind": "Appuntamento",
+      "homepageOrder": 33,
+      "featured": false,
+      "summary": "A Torino assemblee e incontri preparano il corteo contro il riarmo del 24 ottobre. Gli organizzatori cercano il coinvolgimento di scuole, università e quartieri.",
+      "page": "articoli/39-torino-il-coordinamento-contro-il-riarmo-prepara-il-corteo-del-24-ottobre.html",
+      "id": "demo-39",
+      "body": [
+        "La mobilitazione torinese contro il riarmo prende forma dopo gli incontri del 19 e 20 settembre ai giardini Pozzo. Il resoconto pubblicato da Infoaut il 23 settembre annuncia un percorso di assemblee verso il corteo del 24 ottobre, con il coinvolgimento di realtà studentesche e territoriali.",
+        "Gli organizzatori collegano la critica alla spesa militare alle priorità sociali e invitano a costruire iniziative oltre la singola manifestazione. Questa è la prospettiva espressa nel loro comunicato: la fonte documenta obiettivi e appuntamenti annunciati, senza fornire una verifica indipendente dell’adesione futura.",
+        "Per il contesto internazionale, il SIPRI rileva una crescita reale del 2,9% della spesa militare mondiale nel 2025, con un aumento del 14% in Europa. I dati aiutano a collocare il tema del riarmo, ma non provano le specifiche valutazioni del movimento né misurano il sostegno al corteo. Programma locale e quadro globale rimangono due piani distinti."
+      ],
+      "sources": [
+        {
+          "name": "Infoaut",
+          "url": "https://www.infoaut.org/conflitti-globali/torino-e-contro-il-riarmo-un-inizio-di-mobilitazione-verso-e-oltre-il-corteo-contro-il-riarmo-del-24-ottobre",
+          "role": "Comunicato degli organizzatori"
+        },
+        {
+          "name": "SIPRI",
+          "url": "https://www.sipri.org/media/press-release/2026/global-military-spending-rise-continues-european-and-asian-expenditures-surge",
+          "role": "Contesto: dati sulla spesa militare, non verifica dell’evento"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-39",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 84.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Movimenti",
+      "title": "I Giovani Palestinesi d’Italia annunciano mobilitazioni per il 10 ottobre",
+      "date": "2026-09-23",
+      "source": "Infoaut",
+      "url": "https://www.infoaut.org/conflitti-globali/la-fine-del-genocidio-e-la-fine-del-sionismo-appello-per-scendere-in-piazza-per-la-palestina-il-10-ottobre",
+      "sourceType": "articolo",
+      "kind": "Appello",
+      "homepageOrder": 34,
+      "featured": false,
+      "summary": "Le reti per la Palestina lanciano una giornata di mobilitazione il 10 ottobre. L’appello chiede la fine delle operazioni militari e l’accesso agli aiuti.",
+      "page": "articoli/40-i-giovani-palestinesi-ditalia-annunciano-mobilitazioni-per-il-10-ottobre.html",
+      "id": "demo-40",
+      "body": [
+        "Un appello pubblicato da Infoaut invita a manifestare per la Palestina il 10 ottobre. I promotori propongono iniziative nei territori e collegano la mobilitazione alla richiesta di fermare le operazioni militari, consentire gli aiuti e interrompere le forniture di armi.",
+        "Radio Onda d’Urto, nel servizio ripubblicato da Raccordo, aggiunge le voci delle organizzazioni coinvolte e un’intervista a Shukri Hroub dell’UDAP. Il resoconto menziona, tra le realtà aderenti, i Giovani Palestinesi d’Italia, l’Associazione dei Palestinesi e il movimento studentesco palestinese.",
+        "Le formulazioni politiche dell’appello appartengono ai promotori. Qui vengono riportati il loro programma e le richieste, distinguendoli da una ricostruzione indipendente di tutti gli eventi sul terreno. La data comune non implica che ogni città abbia già pubblicato luogo e orario: quei dettagli dipendono dalle convocazioni locali e non vanno dedotti dal solo invito nazionale."
+      ],
+      "sources": [
+        {
+          "name": "Infoaut",
+          "url": "https://www.infoaut.org/conflitti-globali/la-fine-del-genocidio-e-la-fine-del-sionismo-appello-per-scendere-in-piazza-per-la-palestina-il-10-ottobre",
+          "role": "Testo dell’appello dei promotori"
+        },
+        {
+          "name": "Radio Onda d’Urto · Raccordo",
+          "url": "https://raccordo.info/p/56069",
+          "role": "Intervista e organizzazioni aderenti"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-40",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 83.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Movimenti",
+      "title": "Venezia, Sherbooks porta l’editoria indipendente in città il 26 e 27 settembre",
+      "date": "2026-09-16",
+      "source": "Globalproject",
+      "url": "https://globalproject.info/2026/9/26-e-27-settembre-2026-sherbooks-approda-a-venezia",
+      "sourceType": "articolo",
+      "kind": "Appuntamento",
+      "homepageOrder": 35,
+      "featured": false,
+      "summary": "Sherbooks arriva a Venezia il 26 e 27 settembre. Editoria indipendente, incontri e laboratori animano Campo Junghans alla Giudecca.",
+      "page": "articoli/41-venezia-sherbooks-porta-leditoria-indipendente-in-citta-il-26-e-27-settembre.html",
+      "id": "demo-41",
+      "body": [
+        "Sherbooks porta a Venezia due giornate dedicate ai libri e all’editoria indipendente. Globalproject presenta l’appuntamento del 26 e 27 settembre come uno spazio per incontrare editori, autori e lettrici e lettori, nel contesto delle esperienze culturali legate al festival.",
+        "La casa editrice People conferma la propria partecipazione e indica Campo Junghans, alla Giudecca, come luogo dell’iniziativa. Il programma annunciato comprende conversazioni e laboratori, con proposte rivolte a fasce d’età diverse. L’avvio è previsto sabato mattina e la conclusione domenica sera.",
+        "Le due fonti hanno ruoli riconoscibili: una presenta la manifestazione, l’altra è un editore partecipante. Documentano dunque un appuntamento culturale e il suo programma, non un bilancio già concluso dell’affluenza. La notizia appartiene alla sezione Movimenti per le reti e gli spazi che la promuovono, mantenendo al centro il contenuto editoriale e l’incontro pubblico."
+      ],
+      "sources": [
+        {
+          "name": "Globalproject",
+          "url": "https://globalproject.info/2026/9/26-e-27-settembre-2026-sherbooks-approda-a-venezia",
+          "role": "Presentazione del festival"
+        },
+        {
+          "name": "People",
+          "url": "https://www.peoplepub.it/events/people-sherbooks-venezia-2026",
+          "role": "Programma e partecipazione dell’editore"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-41",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 83.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Nera",
+      "title": "Caso Tasia Fortune, la polizia sostiene che l’impiccagione sia stata inscenata",
+      "date": "2026-09-26",
+      "source": "USA Today · Yahoo",
+      "url": "https://currently.att.yahoo.com/att/tasia-fortunes-hanging-staged-mississippi-210554711.html",
+      "sourceType": "articolo",
+      "homepageOrder": 36,
+      "featured": false,
+      "summary": "L’indagine sulla morte di Tasia Fortune esamina l’ipotesi di una messinscena. Gli investigatori ricostruiscono gli spostamenti della vittima; la difesa contesta il coinvolgimento.",
+      "page": "articoli/44-caso-tasia-fortune-la-polizia-sostiene-che-limpiccagione-sia-stata-inscenata.html",
+      "id": "demo-44",
+      "body": [
+        "Gli investigatori che indagano sulla morte di Tasia Fortune a Jackson sostengono che il corpo sia stato spostato per simulare circostanze diverse da quelle dell’uccisione. USA Today riporta questa ricostruzione nell’aggiornamento del 26 settembre, insieme alla posizione della difesa, che nega il coinvolgimento del proprio assistito.",
+        "Mississippi Today documenta un passaggio precedente: la classificazione del caso come omicidio e il primo arresto comunicato a settembre. Il servizio ricorda anche la preoccupazione della famiglia e della comunità durante l’attesa di risposte, in un contesto segnato dal significato storico delle morti per impiccagione.",
+        "La ricostruzione investigativa non equivale a una condanna. Le accuse devono essere valutate nelle sedi previste e i diversi aggiornamenti non vanno confusi con un unico esito definitivo. Per questa edizione restano centrali l’accertamento delle circostanze della morte e la distinzione tra ciò che gli inquirenti sostengono e ciò che la difesa contesta."
+      ],
+      "sources": [
+        {
+          "name": "USA Today · Yahoo",
+          "url": "https://currently.att.yahoo.com/att/tasia-fortunes-hanging-staged-mississippi-210554711.html",
+          "role": "Aggiornamento investigativo e posizione della difesa"
+        },
+        {
+          "name": "Mississippi Today",
+          "url": "https://mississippitoday.org/2026/09/11/tasia-fortune-jackson-police-arrest/",
+          "role": "Precedenti sviluppi e contesto locale"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-44",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 82.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Nera",
+      "title": "Parigi, condanne a 26 e 19 anni nel processo per l’uccisione di Aramburu",
+      "date": "2026-09-26",
+      "source": "AFP · Le Petit Journal",
+      "url": "https://lepetitjournal.com/fil-afp/meurtre-du-rugbyman-aramburu-les-deux-tireurs-condamnes-19-et-26-ans-de-reclusion-454429",
+      "sourceType": "articolo",
+      "homepageOrder": 37,
+      "featured": false,
+      "summary": "La corte di Parigi condanna i due uomini accusati di aver ucciso Federico Martín Aramburú. Le pene sono di 26 e 19 anni; resta possibile l’appello.",
+      "page": "articoli/45-parigi-condanne-a-26-e-19-anni-nel-processo-per-luccisione-di-aramburu.html",
+      "id": "demo-45",
+      "body": [
+        "Il processo per l’uccisione dell’ex rugbista Federico Martín Aramburú si conclude in primo grado con due condanne. AFP riferisce che Loïk Le Priol riceve ventisei anni di reclusione e Romain Bouvier diciannove per la morte avvenuta a Parigi nel marzo 2022.",
+        "Il racconto dall’aula di Rugbyrama descrive la lettura del verdetto al termine di tre settimane di udienze. La corte riconosce l’intenzione omicida, ma non la premeditazione: una distinzione rilevante per comprendere la decisione e per non attribuirle una qualificazione diversa da quella pronunciata.",
+        "Il resoconto di AFP ricorda il termine previsto per impugnare la sentenza. Le pene annunciate sono quindi l’esito di questa fase processuale, non una garanzia che il procedimento sia definitivamente chiuso. La vicenda resta anche una ferita per il mondo del rugby, ma il nucleo della notizia è la decisione giudiziaria e la sua precisa portata."
+      ],
+      "sources": [
+        {
+          "name": "AFP · Le Petit Journal",
+          "url": "https://lepetitjournal.com/fil-afp/meurtre-du-rugbyman-aramburu-les-deux-tireurs-condamnes-19-et-26-ans-de-reclusion-454429",
+          "role": "Pene e possibilità di appello"
+        },
+        {
+          "name": "Rugbyrama",
+          "url": "https://www.rugbyrama.fr/2026/09/26/affaire-aramburu-vous-avez-bien-compris-messieurs-le-grand-recit-du-verdict-13570100.php",
+          "role": "Cronaca dall’aula e motivazione del verdetto"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-45",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 82.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Nera",
+      "title": "Hong Kong, insegnante condannato a tre anni per abusi su una minore",
+      "date": "2026-09-25",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368841/hong-kong-teacher-jailed-3-years-molesting-pupil-during-free-tutoring",
+      "sourceType": "articolo",
+      "homepageOrder": 38,
+      "featured": false,
+      "summary": "A Hong Kong un insegnante viene condannato a tre anni per abusi su una minore. Il caso riporta l’attenzione sulla protezione dei minori negli ambienti educativi.",
+      "page": "articoli/46-hong-kong-insegnante-condannato-a-tre-anni-per-abusi-su-un-alunno.html",
+      "id": "demo-46",
+      "body": [
+        "Un insegnante di matematica di trentun anni è stato condannato a tre anni di carcere a Hong Kong per abusi su una minore. Il South China Morning Post riferisce che l’uomo ha ammesso i fatti, avvenuti durante lezioni private gratuite tra il 2022 e il 2024.",
+        "La vicenda riguarda un rapporto educativo nel quale l’adulto disponeva della fiducia legata al proprio ruolo. Non riportiamo dettagli che possano identificare la minore: per comprendere la decisione sono rilevanti la condanna, il contesto e il periodo dei fatti.",
+        "Su un piano distinto, il governo di Hong Kong descrive le nuove disposizioni sulle segnalazioni obbligatorie di gravi rischi per i bambini, entrate in vigore nel gennaio 2026 e rivolte a venticinque professioni. È un elemento di contesto sulla tutela attuale, non la base che questa pagina attribuisce alla condanna per fatti precedenti. La fonte istituzionale non costituisce una seconda cronaca del processo."
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368841/hong-kong-teacher-jailed-3-years-molesting-pupil-during-free-tutoring",
+          "role": "Resoconto del caso giudiziario"
+        },
+        {
+          "name": "Governo di Hong Kong",
+          "url": "https://www.info.gov.hk/gia/general/202601/20/P2026011900499.htm",
+          "role": "Contesto: tutela dei minori e obblighi di segnalazione dal 2026"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-46",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 81.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Nera",
+      "title": "Torino, attesa la convalida dei fermi nell’indagine per omicidio",
+      "date": "2026-09-26",
+      "source": "Torino Oggi",
+      "url": "https://www.torinoggi.it/2026/09/26/amp/argomenti/cronaca-11/articolo/omicidio-via-gulli-la-vittima-e-un-39enne-tre-persone-fermate-dalla-polizia.html",
+      "sourceType": "articolo",
+      "homepageOrder": 39,
+      "featured": false,
+      "summary": "Un uomo di 39 anni viene trovato morto in un appartamento di Torino. Tre persone sono fermate con contestazioni differenti; gli accertamenti sono in corso.",
+      "page": "articoli/48-torino-attesa-la-convalida-dei-fermi-nellindagine-per-omicidio.html",
+      "id": "demo-48",
+      "body": [
+        "La polizia indaga sulla morte di un uomo di trentanove anni trovato in un appartamento di via Gulli, a Torino. Il Torinese identifica la vittima come Fabio Colapietro, originario di Chivasso, e riferisce l’intervento della squadra mobile.",
+        "Torino Oggi aggiunge i dettagli sui tre fermi: a un uomo vengono contestati omicidio e soppressione di cadavere, mentre per due donne le ipotesi riguardano favoreggiamento e soppressione. Il resoconto ricostruisce anche una chiamata al numero di emergenza che ha contribuito a far emergere il caso.",
+        "Le diverse contestazioni non vanno appiattite in un’accusa identica per tutti. Si tratta inoltre di provvedimenti investigativi sottoposti ai passaggi di verifica previsti, non di condanne. Il movente e l’esatta successione degli eventi restano oggetto degli accertamenti; non ci sono elementi sufficienti nelle fonti consultate per presentarne una ricostruzione definitiva."
+      ],
+      "sources": [
+        {
+          "name": "Torino Oggi",
+          "url": "https://www.torinoggi.it/2026/09/26/amp/argomenti/cronaca-11/articolo/omicidio-via-gulli-la-vittima-e-un-39enne-tre-persone-fermate-dalla-polizia.html",
+          "role": "Fermi e contestazioni distinte"
+        },
+        {
+          "name": "Il Torinese",
+          "url": "https://iltorinese.it/2026/09/26/cadavere-trovato-in-appartamento-a-madonna-di-campagna-si-indaga-per-omicidio/",
+          "role": "Identità della vittima e indagine locale"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-48",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 81.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Nera",
+      "title": "Messina, avvocato ricoverato dopo un’aggressione con l’acido",
+      "date": "2026-09-26",
+      "source": "Open",
+      "url": "https://www.open.online/2026/09/26/messina-donna-getta-acido-avvocato-ricoverato-catania/",
+      "sourceType": "articolo",
+      "homepageOrder": 40,
+      "featured": false,
+      "summary": "Un avvocato viene aggredito con acido a Messina e trasferito a Catania. Le ustioni richiedono cure specialistiche; i carabinieri ricostruiscono la dinamica.",
+      "page": "articoli/49-messina-avvocato-ricoverato-dopo-unaggressione-con-lacido.html",
+      "id": "demo-49",
+      "body": [
+        "Un avvocato di Messina è ricoverato dopo un’aggressione con acido avvenuta la sera del 25 settembre. Open riferisce che, dopo la prima assistenza al Policlinico, viene trasferito al centro grandi ustioni dell’ospedale Cannizzaro di Catania, con lesioni su circa un quinto del corpo e prognosi riservata.",
+        "Il Fatto Quotidiano riporta il racconto secondo cui a colpirlo sarebbe stata una cliente. È un elemento della ricostruzione iniziale, da distinguere dall’accertamento giudiziario. I carabinieri lavorano sulle circostanze dell’incontro e sulla successione degli eventi.",
+        "Le informazioni sanitarie e quelle investigative seguono percorsi diversi: descrivere la gravità delle ustioni non chiarisce automaticamente il movente. Questa edizione evita di trasformare valutazioni personali o ipotesi sulle condizioni della donna in diagnosi. Il punto documentato è l’aggressione, il trasferimento per le cure e l’indagine ancora aperta sulla responsabilità e sulla dinamica."
+      ],
+      "sources": [
+        {
+          "name": "Open",
+          "url": "https://www.open.online/2026/09/26/messina-donna-getta-acido-avvocato-ricoverato-catania/",
+          "role": "Ricovero e trasferimento al centro ustioni"
+        },
+        {
+          "name": "Il Fatto Quotidiano",
+          "url": "https://www.ilfattoquotidiano.it/2026/09/26/aggressione-acido-avvocato-messina-notizie/8518856/",
+          "role": "Prima ricostruzione dell’aggressione"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-49",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 80.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Rosa",
+      "title": "Il principe Harry si lancia con il paracadute in Canada per mantenere una promessa",
+      "date": null,
+      "source": "Vanity Fair",
+      "url": "https://www.vanityfair.com/story/prince-harry-skydiving-canada",
+      "sourceType": "articolo",
+      "homepageOrder": 41,
+      "featured": false,
+      "summary": "Harry si lancia con il paracadute in Canada per mantenere una promessa a un veterano. Con lui partecipa il nipote dell’ex militare.",
+      "page": "articoli/50-il-principe-harry-si-lancia-con-il-paracadute-in-canada-per-mantenere-una-promessa.html",
+      "id": "demo-50",
+      "body": [
+        "Il lancio con il paracadute di Harry in Canada nasce da una promessa fatta al veterano Ed Marshall. Vanity Fair racconta che le condizioni di salute non hanno consentito all’ex militare di partecipare: al suo posto si è lanciato il nipote Bailey.",
+        "Le anticipazioni pubblicate da Yahoo ricostruivano il legame nato dall’incontro con Marshall a Toronto e il sostegno dell’iniziativa a organizzazioni legate alla comunità militare canadese. Il resoconto successivo permette di distinguere il progetto iniziale da come si è effettivamente svolto.",
+        "La vicenda unisce così un impegno personale e una causa pubblica. L’elemento significativo è la promessa mantenuta coinvolgendo la famiglia del veterano; il gesto non fornisce invece indicazioni su altri aspetti della vita privata di Harry o sui rapporti interni alla famiglia reale."
+      ],
+      "sources": [
+        {
+          "name": "Vanity Fair",
+          "url": "https://www.vanityfair.com/story/prince-harry-skydiving-canada",
+          "role": "Resoconto del lancio e partecipazione del nipote"
+        },
+        {
+          "name": "Yahoo · Rachel Burchfield",
+          "url": "https://malaysia.news.yahoo.com/prince-harry-taking-part-daring-135701154.html",
+          "role": "Antecedenti e finalità dell’iniziativa"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-50",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 80.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Rosa",
+      "title": "Katie Holmes e Jason Bard Yarmosky insieme alla settimana della moda milanese",
+      "date": null,
+      "source": "Vogue",
+      "url": "https://www.vogue.com/article/katie-holmes-and-jason-bard-yarmosky-milan-fashion-week",
+      "sourceType": "articolo",
+      "homepageOrder": 42,
+      "featured": false,
+      "summary": "Katie Holmes e Jason Bard Yarmosky compaiono insieme alla sfilata Tod’s a Milano. L’apparizione entra nel racconto della settimana della moda.",
+      "page": "articoli/51-katie-holmes-e-jason-bard-yarmosky-insieme-alla-settimana-della-moda-milanese.html",
+      "id": "demo-51",
+      "body": [
+        "Katie Holmes e l’artista Jason Bard Yarmosky partecipano alla sfilata Tod’s durante la settimana della moda milanese. Vogue dedica attenzione al loro arrivo e alle scelte di abbigliamento: toni chiari, capi essenziali e un’immagine coordinata senza particolari effetti scenografici.",
+        "People include la coppia nella propria rassegna fotografica del 26 settembre, collocando l’apparizione all’evento del giorno precedente. Le due pubblicazioni documentano dunque un’uscita pubblica, all’interno del calendario delle collezioni primavera 2027.",
+        "Il contenuto della notizia è limitato a quell’occasione. La presenza insieme non permette di dedurre progetti familiari o decisioni private non dichiarate. In questa pagina l’attenzione resta sul rapporto tra celebrità e moda, senza riprodurre le fotografie delle testate: i servizi originali sono raggiungibili dai collegamenti in fondo."
+      ],
+      "sources": [
+        {
+          "name": "Vogue",
+          "url": "https://www.vogue.com/article/katie-holmes-and-jason-bard-yarmosky-milan-fashion-week",
+          "role": "Cronaca dell’apparizione alla sfilata"
+        },
+        {
+          "name": "People",
+          "url": "https://people.com/star-tracks-saturday-september-26-2026-new-celebrity-photos-updated-daily-12141157",
+          "role": "Rassegna delle apparizioni pubbliche"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-51",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 79.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Rosa",
+      "title": "Halle Berry racconta come sta accogliendo i cambiamenti dell’età",
+      "date": null,
+      "source": "People",
+      "url": "https://people.com/halle-berry-reveals-changes-she-is-embracing-with-age-12140407",
+      "sourceType": "articolo",
+      "homepageOrder": 43,
+      "featured": false,
+      "summary": "Halle Berry racconta come cambia il rapporto con il proprio corpo a sessant’anni. Al centro dell’intervento, età, fiducia e conversazioni sulla menopausa.",
+      "page": "articoli/52-halle-berry-racconta-come-sta-accogliendo-i-cambiamenti-delleta.html",
+      "id": "demo-52",
+      "body": [
+        "Halle Berry parla dell’invecchiamento come di una fase da affrontare con maggiore consapevolezza, anziché nascondere. People riprende le riflessioni dell’attrice sui cambiamenti del corpo e del volto, emerse durante un incontro pubblico a Los Angeles.",
+        "CelebSecrets racconta direttamente il panel del festival Create & Cultivate del 20 settembre. Nel confronto con Jaclyn Johnson, Berry insiste sul valore delle domande, dell’informazione e della possibilità di parlare apertamente della menopausa. Il resoconto dell’evento amplia così il significato delle singole frasi rilanciate nei giorni successivi.",
+        "È una testimonianza personale, non un’indicazione clinica valida per tutte. L’interesse dell’intervento sta nel modo in cui una figura pubblica affronta aspettative estetiche e passaggi dell’età. Il testo conserva questa dimensione, senza trasformare esperienze individuali o eventuali prodotti citati altrove in consigli sulla salute."
+      ],
+      "sources": [
+        {
+          "name": "People",
+          "url": "https://people.com/halle-berry-reveals-changes-she-is-embracing-with-age-12140407",
+          "role": "Riflessioni dell’attrice sull’età"
+        },
+        {
+          "name": "CelebSecrets",
+          "url": "https://celebsecrets.com/halle-berry-says-menopause-is-not-a-bad-thing-when-you-know-what-to-do-at-create-cultivate-festival/",
+          "role": "Resoconto del panel Create & Cultivate"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-52",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 79.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Rosa",
+      "title": "Serena Williams festeggia il compleanno: il racconto della sua vita da mamma",
+      "date": null,
+      "source": "People · AOL",
+      "url": "https://www.aol.com/articles/happy-birthday-serena-williams-see-110000000.html",
+      "sourceType": "articolo",
+      "homepageOrder": 44,
+      "featured": false,
+      "summary": "Serena Williams compie 45 anni. Le retrospettive affiancano i traguardi del tennis ai momenti pubblici con la famiglia.",
+      "page": "articoli/54-serena-williams-festeggia-il-compleanno-il-racconto-della-sua-vita-da-mamma.html",
+      "id": "demo-54",
+      "body": [
+        "Serena Williams compie quarantacinque anni il 26 settembre. Le retrospettive pubblicate per l’occasione ripercorrono una figura che ha segnato il tennis e continua ad avere una presenza pubblica oltre i risultati sul campo.",
+        "UPI richiama i ventitré titoli del Grande Slam in singolare nella propria selezione sportiva. People, attraverso una galleria ripubblicata da AOL, sceglie invece i momenti con Alexis Ohanian e le figlie Olympia e Adira: due prospettive diverse, una centrata sulla carriera e l’altra sulla dimensione familiare resa pubblica.",
+        "La ricorrenza offre un’occasione per tenere insieme questi percorsi senza confonderli. Le immagini scelte dalle testate mostrano apparizioni e ricordi condivisi; non raccontano l’intera vita privata. Qui i servizi vengono riassunti e collegati, senza ripubblicarne le fotografie e senza attribuire alla campionessa nuovi annunci sportivi che non siano parte della notizia del compleanno."
+      ],
+      "sources": [
+        {
+          "name": "People · AOL",
+          "url": "https://www.aol.com/articles/happy-birthday-serena-williams-see-110000000.html",
+          "role": "Compleanno e momenti pubblici con la famiglia"
+        },
+        {
+          "name": "UPI",
+          "url": "https://www.upi.com/News_Photos/collections/Sports/",
+          "role": "Retrospettiva sportiva e traguardi nel tennis"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-54",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 78.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Sport",
+      "title": "Vela, Luna Rossa protagonista a Napoli nonostante il vento irregolare",
+      "date": "2026-09-25",
+      "source": "OA Sport",
+      "url": "https://www.oasport.it/2026/09/gianluigi-ugolini-il-golfo-di-napoli-non-e-banale-regate-a-17-nodi-risultato-portato-a-casa/",
+      "sourceType": "articolo",
+      "homepageOrder": 45,
+      "featured": false,
+      "summary": "Luna Rossa parte bene nelle regate preliminari di Napoli. Un secondo e un primo posto premiano l’equipaggio dopo l’attesa per il vento.",
+      "page": "articoli/55-vela-luna-rossa-protagonista-a-napoli-nonostante-il-vento-irregolare.html",
+      "id": "demo-55",
+      "body": [
+        "Luna Rossa chiude in testa la prima giornata delle regate preliminari di Napoli dopo un secondo e un primo posto. OA Sport ricostruisce le prove del 25 settembre e raccoglie le valutazioni di Gianluigi Ugolini sulle difficoltà del campo di gara nel golfo.",
+        "L’equipaggio vede Peter Burling e Marco Gradoni ai timoni, con Ugolini e Andrea Giubilei nel lavoro sulle regolazioni. Le condizioni richiedono adattamento: il risultato si inserisce in una giornata iniziata con l’attesa per un vento sufficientemente stabile.",
+        "La Tgr Campania aggiunge il contesto cittadino, con le attività sul lungomare e le iniziative sportive aperte al pubblico nel fine settimana. Il buon avvio ha quindi un rilievo agonistico e richiama attenzione sull’evento napoletano, ma non va scambiato per l’esito dell’intera competizione. La classifica descrive soltanto le prove già disputate."
+      ],
+      "sources": [
+        {
+          "name": "OA Sport",
+          "url": "https://www.oasport.it/2026/09/gianluigi-ugolini-il-golfo-di-napoli-non-e-banale-regate-a-17-nodi-risultato-portato-a-casa/",
+          "role": "Risultati e valutazione dell’equipaggio"
+        },
+        {
+          "name": "Rai Tgr Campania",
+          "url": "https://www.rainews.it/amp/tgr/campania/maratona/2026/09/americas-cup-inizia-lo-spettacolo-a-napoli-primo-giorno-di-regate-preliminari-93df9318-13fa-4ded-a381-6fe36d074412.html",
+          "role": "Condizioni di gara e iniziative cittadine"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-55",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 78.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Sport",
+      "title": "NBA, Curry prolunga con Golden State rinunciando a parte del massimo salariale",
+      "date": "2026-09-26",
+      "source": "NBA.com",
+      "url": "https://www.nba.com/news/stephen-curry-warriors-extension-sept-2026",
+      "sourceType": "articolo",
+      "homepageOrder": 46,
+      "featured": false,
+      "summary": "Curry prolunga con Golden State per due anni. L’accordo resta sotto il massimo consentito e lascia alla squadra più spazio nelle scelte di mercato.",
+      "page": "articoli/56-nba-curry-prolunga-con-golden-state-rinunciando-a-parte-del-massimo-salariale.html",
+      "id": "demo-56",
+      "body": [
+        "Stephen Curry rinnova il rapporto con i Golden State Warriors. NBA.com riporta un accordo biennale da 116 milioni di dollari. Il giocatore prosegue così il legame con la franchigia che lo ha scelto al draft del 2009.",
+        "ANSA sottolinea la differenza rispetto al massimo salariale: l’intesa vale circa venti milioni in meno di quanto avrebbe potuto ottenere. La rinuncia lascia alla squadra margini più ampi per la costruzione dell’organico, pur all’interno delle regole e dei vincoli economici della lega.",
+        "Il rinnovo è quindi una decisione sulla continuità sportiva oltre che sul compenso. La disponibilità economica aggiuntiva non garantisce da sola nuovi acquisti o risultati: indica una possibilità che la dirigenza dovrà trasformare in scelte. La notizia acquisita è l’accordo, mentre gli effetti sulla competitività dei Warriors dipenderanno dal mercato e dalla stagione."
+      ],
+      "sources": [
+        {
+          "name": "NBA.com",
+          "url": "https://www.nba.com/news/stephen-curry-warriors-extension-sept-2026",
+          "role": "Durata e valore dell’accordo"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/26/nba-curry-rinnova-per-2-anni-coi-warriors-e-rinuncia-a-20-milioni_31092e59-070f-4767-9296-5de03d113ee4.html",
+          "role": "Riduzione rispetto al massimo e contesto della carriera"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-56",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 77.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Sport",
+      "title": "Nations League, l’Italia di Mancini comincia con una sconfitta contro il Belgio",
+      "date": "2026-09-25",
+      "source": "Sky Sport",
+      "url": "https://sport.sky.it/calcio/nations-league/partite/2026/giornata-1/italia-belgio/risultato-gol?query=active",
+      "sourceType": "articolo",
+      "homepageOrder": 47,
+      "featured": false,
+      "summary": "L’Italia perde 2-0 con il Belgio in Nations League. Godts e Lukebakio segnano all’Olimpico; il ritorno di Mancini comincia con una sconfitta.",
+      "page": "articoli/57-nations-league-litalia-di-mancini-comincia-con-una-sconfitta-contro-il-belgio.html",
+      "id": "demo-57",
+      "body": [
+        "Il Belgio batte l’Italia per 2-0 all’Olimpico nella prima giornata di Nations League. Sky Sport ricostruisce le due reti: Godts sblocca il risultato al ventesimo minuto, Lukebakio raddoppia nella ripresa su assist di De Ketelaere.",
+        "La partita segna il nuovo esordio di Roberto Mancini sulla panchina azzurra. Rai News riporta una valutazione che distingue un primo tempo insufficiente da una ripresa migliore, senza che la reazione italiana riesca a cambiare il punteggio. Il risultato premia la capacità belga di concretizzare le occasioni decisive.",
+        "Il calendario concede poco tempo per intervenire: il prossimo impegno è contro la Turchia. La sconfitta iniziale non determina da sola l’esito del girone, ma rende subito importante il recupero. Il dato da cui ripartire resta concreto: due gol subiti, nessuno segnato e la necessità di tradurre il miglioramento descritto nella ripresa in una prestazione più continua."
+      ],
+      "sources": [
+        {
+          "name": "Sky Sport",
+          "url": "https://sport.sky.it/calcio/nations-league/partite/2026/giornata-1/italia-belgio/risultato-gol?query=active",
+          "role": "Cronaca e marcatori"
+        },
+        {
+          "name": "Rai News",
+          "url": "https://www.rainews.it/maratona/2026/09/calcio-nations-league-azzurri-mancini-italia-belgio-turchia-francia-news-aggiornamenti-diretta-live-video-4b84e65d-9e91-40ac-a5a2-708fe719c404.html",
+          "role": "Valutazione della partita e prossimo impegno"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-57",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 77.0,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Sport",
+      "title": "Rugby a XIII, Warrington supera Leeds 14-12 e conquista la finale",
+      "date": "2026-09-25",
+      "source": "Warrington Worldwide",
+      "url": "https://www.warrington-worldwide.co.uk/2026/09/25/warrington-book-super-league-grand-final-return-with-thrilling-semi-final-win/",
+      "sourceType": "articolo",
+      "homepageOrder": 48,
+      "featured": false,
+      "summary": "Warrington supera Leeds 14-12 e torna nella finale della Super League. Una partita decisa da due punti riapre la corsa al titolo del rugby a tredici.",
+      "page": "articoli/58-rugby-a-xiii-warrington-supera-leeds-14-12-e-conquista-la-finale.html",
+      "id": "demo-58",
+      "body": [
+        "Warrington conquista la finale della Super League battendo Leeds per 14-12 a Headingley. Warrington Worldwide racconta una semifinale combattuta e il ritorno dei Wolves all’ultimo atto per la prima volta dal 2018.",
+        "Sky Sports concentra l’attenzione sul calcio di punizione trasformato da Irwin al sessantacinquesimo minuto, decisivo per il margine finale e accompagnato da contestazioni. La polemica sulla decisione arbitrale appartiene al racconto della partita, ma non modifica il risultato acquisito.",
+        "La finale è in programma il 3 ottobre. Il successo premia la capacità di Warrington di tenere aperto l’incontro e capitalizzare un episodio in una gara rimasta molto equilibrata. Per Leeds, eliminato davanti al proprio pubblico, la differenza è di soli due punti. La competizione è il rugby league, giocato a tredici, distinta dal campionato di rugby a quindici raccontato nell’altra notizia di questa sezione."
+      ],
+      "sources": [
+        {
+          "name": "Warrington Worldwide",
+          "url": "https://www.warrington-worldwide.co.uk/2026/09/25/warrington-book-super-league-grand-final-return-with-thrilling-semi-final-win/",
+          "role": "Cronaca locale e ritorno in finale"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/rugby-league/news/13591907/warrington-wolves-through-to-super-league-grand-final-after-controversial-penalty-with-14-12-win-over-leeds-rhinos",
+          "role": "Episodio decisivo e calendario"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-58",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 76.5,
+      "status": "active",
+      "revision": 1
+    },
+    {
+      "category": "Sport",
+      "title": "Rugby a XV, Northampton apre il campionato battendo Newcastle 59-26",
+      "date": "2026-09-25",
+      "source": "PA · RugbyPass",
+      "url": "https://www.rugbypass.com/news/northampton-storm-to-opening-win-as-duos-hat-tricks-sink-newcastle/",
+      "sourceType": "articolo",
+      "homepageOrder": 49,
+      "featured": false,
+      "summary": "Northampton apre il campionato con un 59-26 su Newcastle. Freeman e Pater segnano tre mete ciascuno nella vittoria dei campioni in carica.",
+      "page": "articoli/59-rugby-a-xv-northampton-apre-il-campionato-battendo-newcastle-59-26.html",
+      "id": "demo-59",
+      "body": [
+        "Northampton inizia la difesa del titolo con una vittoria per 59-26 contro Newcastle. Il resoconto di PA pubblicato da RugbyPass mette in evidenza le triplette di Tommy Freeman e George Pater, protagonisti di una prova offensiva da nove mete complessive.",
+        "Il rapporto della partita pubblicato da Newcastle consente di affiancare alla cronaca generale la prospettiva della squadra sconfitta. Gli ospiti trovano quattro mete, ma non riescono a contenere il ritmo dei Saints: il loro punteggio non basta a compensare la distanza accumulata.",
+        "Per Northampton è un avvio netto, per Newcastle un primo confronto impegnativo dopo i cambiamenti dell’organico. Una partita di apertura offre indicazioni sui meccanismi delle squadre, senza stabilire già i rapporti di forza dell’intera stagione. Qui il risultato e i marcatori principali descrivono ciò che è accaduto sul campo, mantenendo separate le prospettive future dal successo effettivamente ottenuto."
+      ],
+      "sources": [
+        {
+          "name": "PA · RugbyPass",
+          "url": "https://www.rugbypass.com/news/northampton-storm-to-opening-win-as-duos-hat-tricks-sink-newcastle/",
+          "role": "Risultato, mete e protagonisti"
+        },
+        {
+          "name": "Newcastle Red Bulls",
+          "url": "https://www.newcastleredbulls.com/en/articles/northampton-saints-match-report-sep-2026",
+          "role": "Resoconto del club ospite"
+        }
+      ],
+      "demo": true,
+      "event_key": "demo-59",
+      "event_time": "2026-09-26T12:00:00+02:00",
+      "published_at": "2026-09-26T12:00:00+02:00",
+      "updated_at": "2026-09-26T23:59:00+02:00",
+      "relevance": 76.0,
+      "status": "active",
+      "revision": 1
+    }
+  ]
+}

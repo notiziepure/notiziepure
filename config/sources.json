@@ -1,0 +1,22 @@
+[
+ {"name":"Il Post","publisher":"ilpost","home":"https://www.ilpost.it/","feed":"https://www.ilpost.it/feed/","article_hosts":["ilpost.it"],"categories":["Italia","Politica","Mondo","Cronaca"],"enabled":true},
+ {"name":"Open","publisher":"open","home":"https://www.open.online/","feed":"https://www.open.online/feed/","article_hosts":["open.online"],"categories":["Italia","Politica","Cronaca","Nera","Rosa"],"enabled":true},
+ {"name":"Rai News","publisher":"rai","home":"https://www.rainews.it/","article_hosts":["rainews.it","rai.it"],"categories":["Italia","Politica","Cronaca","Mondo","Nera","Sport"],"enabled":true},
+ {"name":"ANSA","publisher":"ansa","home":"https://www.ansa.it/","feed":"https://www.ansa.it/sito/ansait_rss.xml","article_hosts":["ansa.it"],"categories":["Italia","Politica","Mondo","Cronaca","Sport"],"enabled":true},
+ {"name":"Al Jazeera","publisher":"aljazeera","home":"https://www.aljazeera.com/","feed":"https://www.aljazeera.com/xml/rss/all.xml","article_hosts":["aljazeera.com"],"categories":["Mondo","Cronaca","Nera","Tecnologia"],"enabled":true},
+ {"name":"France 24","publisher":"france24","home":"https://www.france24.com/en/","feed":"https://www.france24.com/en/rss","article_hosts":["france24.com"],"categories":["Mondo","Cronaca","Nera","Sport","Rosa"],"enabled":true},
+ {"name":"DW","publisher":"dw","home":"https://www.dw.com/","feed":"https://rss.dw.com/rdf/rss-en-all","article_hosts":["dw.com"],"categories":["Mondo","Cronaca","Nera","Tecnologia"],"enabled":true},
+ {"name":"Ars Technica","publisher":"conde-nast","home":"https://arstechnica.com/","feed":"https://feeds.arstechnica.com/arstechnica/index","article_hosts":["arstechnica.com"],"categories":["Tecnologia"],"enabled":true},
+ {"name":"TechCrunch","publisher":"techcrunch","home":"https://techcrunch.com/","feed":"https://techcrunch.com/feed/","article_hosts":["techcrunch.com"],"categories":["Tecnologia"],"enabled":true},
+ {"name":"Google Blog","publisher":"google","home":"https://blog.google/","feed":"https://blog.google/rss/","article_hosts":["blog.google"],"categories":["Tecnologia"],"primary":true,"enabled":true},
+ {"name":"Infoaut","publisher":"infoaut","home":"https://www.infoaut.org/","article_hosts":["infoaut.org"],"categories":["Movimenti"],"primary":true,"enabled":true},
+ {"name":"Umanità Nova","publisher":"umanitanova","home":"https://umanitanova.org/","feed":"https://umanitanova.org/feed/","article_hosts":["umanitanova.org"],"categories":["Movimenti"],"primary":true,"enabled":true},
+ {"name":"Radio Onda d’Urto","publisher":"radiondadurto","home":"https://www.radiondadurto.org/","feed":"https://www.radiondadurto.org/feed/","article_hosts":["radiondadurto.org"],"categories":["Movimenti"],"primary":true,"enabled":true},
+ {"name":"Globalproject","publisher":"globalproject","home":"https://globalproject.info/","article_hosts":["globalproject.info"],"categories":["Movimenti"],"primary":true,"enabled":true},
+ {"name":"OA Sport","publisher":"oasport","home":"https://www.oasport.it/","feed":"https://www.oasport.it/feed/","article_hosts":["oasport.it"],"categories":["Sport"],"enabled":true},
+ {"name":"RugbyPass","publisher":"rugbypass","home":"https://www.rugbypass.com/","article_hosts":["rugbypass.com"],"categories":["Sport"],"enabled":true},
+ {"name":"People","publisher":"people","home":"https://people.com/","article_hosts":["people.com"],"categories":["Rosa"],"enabled":true},
+ {"name":"Variety","publisher":"pmc","home":"https://variety.com/","feed":"https://variety.com/feed/","article_hosts":["variety.com"],"categories":["Rosa"],"enabled":true},
+ {"name":"Deadline","publisher":"pmc","home":"https://deadline.com/","feed":"https://deadline.com/feed/","article_hosts":["deadline.com"],"categories":["Rosa"],"enabled":true},
+ {"name":"The Guardian","publisher":"guardian","home":"https://www.theguardian.com/","feed":"https://www.theguardian.com/world/rss","article_hosts":["theguardian.com"],"categories":["Mondo"],"enabled":false,"note":"Feed dichiarato per uso personale non commerciale: verificare licenza prima di abilitarlo per il sito."}
+]

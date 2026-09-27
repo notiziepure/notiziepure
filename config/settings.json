@@ -1,0 +1,20 @@
+{
+  "timezone": "Europe/Rome",
+  "interval_minutes": 30,
+  "edition_close": "00:00",
+  "live_enabled": false,
+  "ai_enabled": false,
+  "model": "",
+  "monthly_budget_usd": 0,
+  "input_usd_per_million_tokens": 0,
+  "output_usd_per_million_tokens": 0,
+  "max_calls_per_run": 40,
+  "max_output_tokens": 6500,
+  "max_articles_per_source": 3,
+  "max_documents_per_category": 16,
+  "lookback_hours": 72,
+  "extra_story_threshold": 55,
+  "minimum_confidence": 0.9,
+  "user_agent": "notiziepure/1.0 (RSS editorial reader)",
+  "notes": "Modello, tariffe e tetto di spesa vanno configurati prima dell'attivazione. Nessuna chiamata a pagamento è abilitata in questa consegna."
+}

@@ -1,0 +1,9 @@
+Metodo: strumento imagegen integrato, generazione e successiva revisione.
+File: site/assets/apertura-china.png
+Illustrazione originale in bianco e nero; scena simbolica, non documentazione di un evento reale.
+
+Prompt iniziale:
+Use case: illustration-story. Asset type: one landscape 3:2 editorial illustration for Italian newspaper notiziepure. Primary request: black and white illustration in the tradition of Bonelli Italian adventure comics: expressive hand-inked contours, deep solid blacks, cross-hatching, cinematic perspective, realistic drawn objects, white paper, no color and no photographic rendering. Subject: symbolic international diplomacy and news investigation; a close view of a conference table with closed dossiers and a pen, empty chairs, an open doorway and dramatic shadows. Restrained and elegant, readable at small size next to the lead headline. Entirely fictional symbolic scene, not an actual meeting. No lettering, no captions, no speech balloons, no logos, no characters or real people, no weapons. Original composition, not a copy of an existing panel.
+
+Revisione:
+Edit this illustration only: remove all flags, emblems and recognizable religious buildings. Replace flags with plain wall shadows and the distant dome with anonymous low geometric city rooftops. Preserve the dramatic black-and-white ink adventure-comic drawing style, crosshatching, room, table, dossiers, pen, chairs and 3:2 composition. No color, no text, no logos, no people. It is a symbolic newspaper illustration, not a real location.
